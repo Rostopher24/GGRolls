@@ -118,6 +118,9 @@ dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,47981717#notes
 // Gridskipper
 dimwishlist:item=1621558458&perks=4090651448,679225683,2946784966,2458213969#notes:Rostopher: Generalist pick. My personal roll of this weapon, and ho boy does it slap. Corkscrew Rifling does a nice flat buff to handling, stability and range, Light Mag keeps the reload snappy and pushes out your range; and Tunnel Vision locks your high-damage shots from Multi-Kill Clip onto the heads of your enemies. Thoroughly recommend, even if you don't like pulse rifles. [Recommended MW: Stability]
 
+// Hezen Vengeance (Timelost)
+dimwishlist:item=1921159786&perks=1478423395,3796465595,3643424744,1546637391#notes:Rostopher: This is a note [Recommended MW: Blast Radius]
+
 // IKELOS_SMG_v1.0.2
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1631667848,3523296417#notes:Rostopher: PvE pick. The 'Gravy Roll', this weapon has excellent utility, with not 1, not 2, but 3 different ways to reload it (manual, melee kill, throw grenade). Seraph Rounds do bonus stagger damage against combatants, and Corkscrew Rifling is a nice flat buff to 3 stats. [Recommended MW: Range]
 
