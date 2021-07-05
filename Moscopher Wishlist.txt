@@ -1,0 +1,80 @@
+title:The Moscopher Wishlist
+description:This is a compiled list of recommended and god rolls from The Guardian Grill's most annoying stat-whores.
+
+// Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,3425386926,#notes:Rostopher: The classic bow roll. If you like bows, this'll do it for you - it's a beautiful-feeling bow that is rare as hell, so if you have this, keep it. Pretty much any string and arrow perks will work. [Recommended MW: Draw Time]
+dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3425386926#notes:Rostopher: This is the discerning bow-users roll. Buffs to accuracy from the string and arrow perks, alongside the classic Archer's Tempo/Rampage combo. This bow is rare as hell, and this is a perfect roll on it, so whack a rampage spec on it, and keep it. [Recommended MW: Draw Time]
+
+// Biting Winds
+dimwishlist:item=1621657423&perks=852209214,3827198035,2450788523,3350417888#notes:Rostopher: Biting Winds is a bit of an odd duck in the bow department. It's the only bow that cannot roll with Archer's Tempo, and so we must look elsewhere for utility. Killing Wind is rather good on pretty much everything, and Sympathetic Arsenal was designed for bows, given that you are always 'reloading' it when you nock an arrow. [Recommended MW: Draw Time]
+dimwishlist:item=1621657423&perks=852209214,3827198035,247725512,4082225868#notes:Rostopher: Biting Winds is a bit of an odd duck in the bow department. It's the only bow that cannot roll with Archer's Tempo, and Rapid Hit feels like a poor replacement. However, this roll still gets the jop done, and as a bonus, you can punch a guy for a big stack of damage boost. [Recommended MW: Draw Time]
+
+// Bottom Dollar
+dimwishlist:item=1046651176&perks=4090651448,106909392,1168162263,2458213969#notes:Rostopher: God tier roll here. Corkscrew Rifling gives you a flat buff to 3 stats with no downsides; Tac Mag gives you an extra bullet and a bonus to reload and stability; and Outlaw/Multi-Kill Clip is a perfectly synergistic 3rd and 4th. This thing hits like a train in both PvE and PvP. [Recommended MW: Range]
+dimwishlist:item=1046651176&perks=3250034553,3142289711,2450788523,47981717#notes:Rostopher: An insane max-range roll for PvP here. You're sacrificing a damage perk for Opening Shot, but if you can combine it with High Energy Fire or other damage buffs, this thing has insane two-tap range, and is outrageously consistent in duels. [Recommended MW: Range]
+
+// Crimil's Dagger
+dimwishlist:item=4292849692&perks=1926090095,106909392,1168162263,1015611457#notes:Rostopher: Hakke hand cannons… they kinda just feel bad. The poor handling stat is not well offset by the higher than average base aim assistance, with recoil that tends right as compared to the vast majority of other Aggressives, which tend to be left or straight. That said, this roll is, mechanically, very efficient, and if you can get around the poor handling and weird recoil, it's very usable. [Recommended MW: Handling]
+
+// Dire Promise
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Rostopher: PvP pick. This roll will feel SUPER snappy, and will hit close to 140's range cap when ADS thanks to rangefinder. Ricochet for the cheeky range and stablity buff, and steadyhand to keep the stability in check.  [Recommended MW: Range]
+
+// Falling Guillotine
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:Rostopher: This is just the bestest sword. [Recommended MW: Impact]
+
+// False Promises
+dimwishlist:item=3143732432&perks=839105230,3230963543,3643424744,3425386926#notes:Rostopher: This is a great roll on a not great weapon. High Impacts fire bullets and that's all that can really be said of them. That said, this roll is fun enough to run in strikes if you're looking for something to mix things up. [Recommended MW: Stability]
+
+// Night Watch
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Rostopher: This is the curated roll of this weapon, and it only drops from the New Light campaign, or from Gambit Prime/The Reckoning back when those were in the game. Do not get rid of this; it's not only rare, it's an extremely fun weapon to use. Hip fire for maximum AC-130 vibes. [Recommended MW: Handling]
+
+// Royal Entry
+dimwishlist:item=2448907086&perks=1478423395,1996142143,3300816228,1275731761#notes:Rostopher: Auto-loading Holster is always strong on rockets, and Cluster Bomb combined with Black Powder makes sure you cover the widest possible area with explosions. Combine this with the intrinsic tracking of this frame, and it's a great 'oh shit' rocket that you can whip out, blow a bunch of stuff out, then put away and continue on with your business. [Recommended MW: Blast Radius]
+
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=839105230,1885400500,1354429876,3425386926#notes:Rostopher: This is my personal god roll of this weapon, and I love it deeply. Arrowhead Brake makes the recoil perfectly vertical, Ricochet Rounds gives you a nice Stability and Range buff; and FTTC and Rampage synergise rather well, particular with Rampage Spec equipped. [Recommended MW: Stability]
+
+// The Forward Path
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,2458213969#notes:Rostopher: For PvP, this roll of the weapon does W O R K. Multi-Kill Clip is surprisingly effective on 600s, even with just one stack. Dynamic sway reduction keeps your bullets on target, and accurized lets you hit at unexpected ranges for an AR. [Recommended MW: Stability]
+dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,2458213969#notes:Rostopher: Red Dot Micro, in my opinon, is the most usable scope on this weapon; Tactical Mag is best in slot for the buffs to mag size, reload speed and stability. Feeding Frenzy and MKC synergise nicely, so this would be an all-round extremely solid roll for PvE. [Recommended MW: Stability]
+
+// The Palindrome (Adept)
+dimwishlist:item=1481892490&perks=4090651448,2420895100,3643424744,4049631843#notes:Rostopher: A Palindrome with 26 bullets in the mag. Do I need to say any more? [Recommended MW: Reload]
+dimwishlist:item=1481892490&perks=4090651448,2420895100,3643424744,3425386926#notes:Rostopher: A Palindrome with 26 bullets in the mag. Do I need to say any more? [Recommended MW: Reload]
+dimwishlist:item=1481892490&perks=4090651448,1561002382,706527188,2846385770#notes:Rostopher: PvP pick for this weapon. Quickdraw means you can get it out fast in a tight spot, and Rangefinder more or less makes the weapon hit the range cap for 140s when aiming down sights. Hi-Cal gives you a nice buff to range, and some extra flinch, and Corkscrew Rifling gives a flat buff to handling, range and stability. [Recommended MW: Stability]
+dimwishlist:item=1481892490&perks=4090651448,1885400500,1168162263,3425386926#notes:Rostopher: This weapon will be a PvE workhorse. The classic Outlaw/Rampage combo, with a range and stability buff from Ricochet Rounds, and a flat buff to its Range, Stability and Handling from Corkscrew Rifling. Plus, the weapon feels incredible to fire. Just crack heads, and the slight reload defecit vanishes. [Recommended MW: Range]
+dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,2846385770#notes:Rostopher: PvP pick for this weapon. Quickdraw means you can get it out fast in a tight spot, and Rangefinder more or less makes the weapon hit the range cap for 140s when aiming down sights. Richochet Rounds give you that sweet buff to stability and range, and Corkscrew Rifling gives a flat buff to handling, range and stability. [Recommended MW: Stability]
+
+// Whispering Slab
+dimwishlist:item=211938782&perks=852209214,3827198035,201365942,4082225868#notes:Rostopher: Ah, Whispering Slab, or The Surfboard as it's known. This is a classic bow roll - nailing headshots makes you fire more arrows, and Swashbuckler is a great replacement for Rampage. It works a treat. Plus, it sounds terrific when it looses.  [Recommended MW: Draw Time]
+
+// Bottom Dollar
+dimwishlist:item=1046651176&perks=2458213969#notes:Rostopher: Multi-Kill Clip is great on this weapon. Ideally you want something that enhances reload speed (Outlaw, Rapid Hit, Feeding Frenzy, Surplus). Avoid Subsistence, it feels awful. If you can get Tactical or Appended Magazine, that's great too. [Recommended MW: Any]
+
+// Dire Promise
+dimwishlist:item=2742838701&perks=3643424744,4082225868,#notes:Rostopher: Dire Promise, the old crucible favourite, has this roll, which is great in PvE. The sights perk doesn't really matter, and the only magazine perk that you should probably avoid is extended, as it makes the reload interminable. [Recommended MW: Any]
+
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:Rostopher: This perk combo on this weapon is excellent. Just make sure you're cracking heads, and you can fire this thing for days, with ramped up damage from Rampage offsetting the somewhat disappointing damage of the archetype at base. Whack on a Rampage Spec from maximum carnage. [Recommended MW: Any]
+
+// Any
+dimwishlist:item=-69420&perks=3643424744,4104185692#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+dimwishlist:item=-69420&perks=3643424744,3425386926#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+dimwishlist:item=-69420&perks=3643424744,3708227201#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+dimwishlist:item=-69420&perks=3643424744,4082225868#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+
+// Hand Cannon
+dimwishlist:item=6&perks=2779035018,1015611457#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+dimwishlist:item=6&perks=2779035018,2458213969#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+dimwishlist:item=6&perks=1168162263,1015611457#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+dimwishlist:item=6&perks=1168162263,2458213969#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+dimwishlist:item=6&perks=1168162263,3425386926#notes:Rostopher: Outlaw Rampage is a classic perk combo on Hand Cannons, you can't really go wrong with it! [Recommended MW: Range]
+dimwishlist:item=6&perks=247725512,1015611457#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+dimwishlist:item=6&perks=247725512,2458213969#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
+
+// Shotgun
+dimwishlist:item=11&perks=3300816228,2360754333#notes:Rostopher: Shotguns with Auto-Loading and Trench are, generally, quite good in PvE. Pull it out, punch a guy, then pump out three big-damage shots. Holster it and go back to your day. You want magazine perks that enhance magazine size; or Assault Mag for faster damage output. The only barrel perk you want to avoid with this roll is Full Choke, which reduces precision damage. [Recommended MW: Any]
+
+// Sword
+dimwishlist:item=54&perks=1749209109,3913600130,#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keep. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
+
