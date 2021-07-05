@@ -2,19 +2,98 @@ title:The Moscopher Wishlist
 description:This is a compiled list of recommended and god rolls from The Guardian Grill's most annoying stat-whores.
 
 // Accrued Redemption
-dimwishlist:item=4095896073&perks=201365942,3425386926,#notes:Rostopher: The classic bow roll. If you like bows, this'll do it for you - it's a beautiful-feeling bow that is rare as hell, so if you have this, keep it. Pretty much any string and arrow perks will work. [Recommended MW: Draw Time]
 dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3425386926#notes:Rostopher: This is the discerning bow-users roll. Buffs to accuracy from the string and arrow perks, alongside the classic Archer's Tempo/Rampage combo. This bow is rare as hell, and this is a perfect roll on it, so whack a rampage spec on it, and keep it. [Recommended MW: Draw Time]
+
+// Age-Old Bond
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Rostopher: Whilst 260 autos aren't exactly optimal weapons, this curated roll works just fine for low-level activities. [Recommended MW: Any]
+
+// Ancient Gospel
+dimwishlist:item=48643186&perks=4090651448,106909392,1168162263,1015611457#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. This roll is fully min/maxed to do work for you, with Outlaw and Kill Clip providing a lovely synergistic pairing, and Tactical Mag bumping up your magazine size and reducing your reload speed, to minimise your downtime. [Recommended MW: Any]
+dimwishlist:item=48643186&perks=1482024992,3142289711,699525795,2846385770#notes:Rostopher: PvP pick. 140s are almost always a competetive pick, particularly if you have the aim to let them sing, and this roll will do work for you at plenty of ranges. Eye of the Storm is an underrated perk for PvP, increasing your bullet magnetism as your health gets lower, which might give you the edge you need in a duel. [Recommended MW: Range]
+
+// Apex Predator
+dimwishlist:item=2545083870&perks=3525010810,3796465595,3977735242,3300816228#notes:Rostopher: Apex Predator is the runt of the rocket launcher family. It's perk selection is microscopic, its curated roll is weird at the best of times and it has largely been superceded by Code Duello. However, if you do have this particular roll, this is probably the absolute min-maxed DPS roll you can get, so hold onto it. [Recommended MW: Velocity]
+
+// Apostate
+dimwishlist:item=2164448701&perks=3250034553,3142289711,2866798147,47981717#notes:Rostopher: PvP pick. If you are into 140 sniper rifles in PvP, then this is an extremely solid pick. No Distractions reduces flinch if you ADS for a moment, and combine that with the more or less maxed range and Opening Shot means you'll be able to land surprise snipes in duelling situations. [Recommended MW: Range]
+
+// Arsenic Bite-4b
+dimwishlist:item=720351795&perks=852209214,3429800428,3425386926,201365942#notes:Rostopher: PvE pick. The OG energy bow, the combo of Archer's Tempo and Rampage is a thing of beauty. Fiberglass Arrows max out your accuracy, and Polymer String gets your draw time down as far as possible, maximising your damage potention. [Recommended MW: Draw Time]
+
+// Astral Horizon
+dimwishlist:item=1697682876&perks=1300023272,791862061,3300816228,2360754333#notes:Rostopher: PvE pick. Not that you'll likely use this weapon in PvE, but if you do happen upon this roll, it does do a fair amount of work. Auto-Loading holster pairs very nicely with Trench Barrell, Assault Mag ramps up your fire rate, and Barrel Shroud gives you the biggest possible bump to handling, making sure you can whip it out quickly. [Recommended MW: Handling]
+dimwishlist:item=1697682876&perks=1332244541,3142289711,3436462433,47981717#notes:Rostopher: PvP pick. Maximised range, bonus accuracy on the first shot of your attack, and a bump to handling from Surplus. [Recommended MW: Range]
+
+// Astral Horizon (Adept)
+dimwishlist:item=532746994&perks=1300023272,791862061,3300816228,2360754333#notes:Rostopher: PvE pick. Not that you'll likely use this weapon in PvE, but if you do happen upon this roll, it does do a fair amount of work. Auto-Loading holster pairs very nicely with Trench Barrell, Assault Mag ramps up your fire rate, and Barrel Shroud gives you the biggest possible bump to handling, making sure you can whip it out quickly. [Recommended MW: Handling]
+dimwishlist:item=532746994&perks=1332244541,3142289711,3436462433,47981717#notes:Rostopher: PvP pick. Maximised range, bonus accuracy on the first shot of your attack, and a bump to handling from Surplus. [Recommended MW: Range]
+
+// Avalanche
+dimwishlist:item=66875353&perks=1561002382,2450788523,1890422124#notes:Rostopher: PvP pick. Avalanche may look like a slightly mishapen potato, but as machine guns go, this thing will do work. Killing Wind will push your range out and give you the zoomies, tap the trigger keeps you honest with your recoil, and High-Cal rounds will flinch off even the most persistent of snipers. Scopes on this thing really come down to personal preference, so use whichever one you like best. [Recommended MW: Stability]
+
+// Bad Omens
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761#notes:Rostopher: PvE pick. Bad Omens is a lovely rocket launcher that has, sadly been largely superceded by the superior Royal Entry. That said, this roll will be entirely functional at Blowing Shit Up™.  This is also the curated roll, so always worth hanging on to it. [Recommended MW: Any]
+
+// Bequest
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,354401740#notes:Rostopher: PvE pick. Holding the dubious honour of 'Perhaps most disappointing raid weapon', Bequest is a weapon that is very much style over substance. That said, Relentless Strikes and Assassin's Blade will be entirely functional in low-end content. Swordmaster's gets your heavy attack back faster, and Jagged Edge maximises your damage potential. [Recommended MW: Any]
+
+// Berenger's Memory
+dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228,#notes:Rostopher: PvE pick. Berenger's sits in an odd place, in that it's a rapid fire frame, so your mileage with it may vary. Spike/Auto-Loading/Field Prep, however, is a snappy PvE roll that'll work in almost any situation, with the extra reserves and fast reload on demand from Field Prep being particularly welcome. The barrel perk doesn't really make much of a difference, but try to maximise handling and blast radius. [Recommended MW: Blast Radius]
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417,#notes:Rostopher: PvE pick. Berenger's sits in an odd place, in that it's a rapid fire frame, so your mileage with it may vary. Spike/Demolitionist/Field Prep, however, is a snappy PvE roll that'll work in almost any situation. Just remember, you can reload by yeeting a grenade - use this to your advantage. The barrel perk doesn't really make much of a difference, but try to maximise handling and blast radius. [Recommended MW: Blast Radius]
+dimwishlist:item=407621213&perks=3301904089,706527188,3300816228,#notes:Rostopher: PvE pick. Berenger's sits in an odd place, in that it's a rapid fire frame, so your mileage with it may vary. Spike/Auto-Loading/Quickdraw, however, is a snappy PvE roll that'll work in almost any situation. The barrel perk doesn't really make much of a difference, but try to maximise handling and blast radius. [Recommended MW: Blast Radius]
+
+// Bite of the Fox
+dimwishlist:item=3169616514&perks=4090651448,3142289711,957782887,588594999#notes:Rostopher: PvP pick. Whilst the sights are somewhat cotentious, if you can get used to them, this roll absolutely slaps in PvP. [Recommended MW: Range]
+dimwishlist:item=3169616514&perks=4090651448,3142289711,957782887,47981717#notes:Rostopher: PvP pick. Whilst the sights are somewhat cotentious, if you can get used to them, this roll absolutely slaps in PvP. [Recommended MW: Range]
+dimwishlist:item=3169616514&perks=1840239774,1087426260,247725512,2869569095#notes:Rostopher: PvE pick. Whilst you probably have better PvE snipers than this, this roll will work in a variety of situations. Just remember to crouch when you reload. [Recommended MW: Reload]
+dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,588594999#notes:Rostopher: PvP pick. Whilst the sights are somewhat cotentious, if you can get used to them, this roll absolutely slaps in PvP. [Recommended MW: Range]
+dimwishlist:item=3169616514&perks=3250034553,3142289711,957782887,47981717#notes:Rostopher: PvP pick. Whilst the sights are somewhat cotentious, if you can get used to them, this roll absolutely slaps in PvP. [Recommended MW: Range]
 
 // Biting Winds
 dimwishlist:item=1621657423&perks=852209214,3827198035,2450788523,3350417888#notes:Rostopher: Biting Winds is a bit of an odd duck in the bow department. It's the only bow that cannot roll with Archer's Tempo, and so we must look elsewhere for utility. Killing Wind is rather good on pretty much everything, and Sympathetic Arsenal was designed for bows, given that you are always 'reloading' it when you nock an arrow. [Recommended MW: Draw Time]
 dimwishlist:item=1621657423&perks=852209214,3827198035,247725512,4082225868#notes:Rostopher: Biting Winds is a bit of an odd duck in the bow department. It's the only bow that cannot roll with Archer's Tempo, and Rapid Hit feels like a poor replacement. However, this roll still gets the jop done, and as a bonus, you can punch a guy for a big stack of damage boost. [Recommended MW: Draw Time]
 
+// Blasphemer
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:Rostopher: PvP pick. The curated roll of this weapon is a monstrous contender in PvP. If you like slug shotguns therein, you'll like this one. [Recommended MW: Handling]
+
 // Bottom Dollar
 dimwishlist:item=1046651176&perks=4090651448,106909392,1168162263,2458213969#notes:Rostopher: God tier roll here. Corkscrew Rifling gives you a flat buff to 3 stats with no downsides; Tac Mag gives you an extra bullet and a bonus to reload and stability; and Outlaw/Multi-Kill Clip is a perfectly synergistic 3rd and 4th. This thing hits like a train in both PvE and PvP. [Recommended MW: Range]
 dimwishlist:item=1046651176&perks=3250034553,3142289711,2450788523,47981717#notes:Rostopher: An insane max-range roll for PvP here. You're sacrificing a damage perk for Opening Shot, but if you can combine it with High Energy Fire or other damage buffs, this thing has insane two-tap range, and is outrageously consistent in duels. [Recommended MW: Range]
 
+// Brass Attacks
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2450788523,3425386926#notes:Rostopher: PvP pick. Aggressive Burst sidearms are hugely underrated in PvP, and Brass Attacks with this roll absolutely slaps. Rampage lowers your already ridiculously low TTK, and Killing Wind lets you compete at nearly auto-rifle ranges. [Recommended MW: Stability]
+
+// BrayTech Werewolf
+dimwishlist:item=528834068&perks=3250034553,1968497646,2387244414,2458213969#notes:Rostopher: This is the curated roll of this weapon, and is extremely reliable in both PvE and PvP. Hold onto this if you managed to snag it. [Recommended MW: Any]
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1546637391#notes:Rostopher: Oddball PvP pick. Vorpal Weapon is great in PvP, and this weapon will keep you on target for long enough to absolutely mince enemy supers. Combine with High Energy fire for maximum carnage. [Recommended MW: Stability]
+
+// Chattering Bone
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:Rostopher: This is the curated roll of this weapon, and it works very well in both PvP and PvP. Hold onto it if you got it. [Recommended MW: Any]
+dimwishlist:item=568515759&perks=4090651448,1885400500,1168162263,3425386926#notes:Rostopher: PvE pick. Whilst Lightweight Frames suffer in the DPS department compared to other pulse rifles, this roll covers a lot of the defecits that come with them. [Recommended MW: Any]
+
+// Chroma Rush
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1359896290,1015611457#notes:Rostopher: PvP pick. 720s are deeply underrated in PvP, with a not unimpressive .77 TTK. Corkscrew and Accurized will push your range out to 23 meters, and Dynamic Sway will keep the weapon from bouncing around too hard. Proccing Kill Clip will drop your TTK to .60 for the duration, so is not to be sniffed at. [Recommended MW: Stability]
+dimwishlist:item=1119734784&perks=4090651448,3142289711,2946784966,1015611457#notes:Rostopher: PvP pick. 720s are deeply underrated in PvP, with a not unimpressive .77 TTK. Corkscrew and Accurized will push your range out to 23 meters. Kill Clip and Tunnel Vision are curiously synergistic, proccing on reloading after a kill, so you can just beam the next guy after securing a kill. [Recommended MW: Stability]
+dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,1015611457#notes:Rostopher: PvE pick. Feeding Frenzy + Kill Clip is a lovely synergistic combo, giving you a huge bump to your already impressive DPS on this weapon. The flat buff to 3 stats from Corkscrew Rifling will keep the weapon under control, and Tactical Mag is always a great option on more or less any weapon. [Recommended MW: Stability]
+dimwishlist:item=1119734784&perks=1392496348,1431678320,1820235745,3425386926#notes:Rostopher: PvE pick. Subsistence + Rampage is a quintessential add-clearing pick, and the massive magazine on this weapon means as long as your focusing on red-bars, you may never need to reload. Alloy Mag gives a lovely snappy reload if you do hit the bottom of the mag, and Polygonal's stability bump is a super welcome bump to the weapon's controllability. [Recommended MW: Any]
+dimwishlist:item=1119734784&perks=1392496348,106909392,1820235745,3425386926#notes:Rostopher: PvE pick. Subsistence + Rampage is a quintessential add-clearing pick, and the massive magazine on this weapon means as long as your focusing on red-bars, you may never need to reload. Tac Mag maximises your magazine without penalising you if you did hit the bottom of the mag, and Polygonal's stability bump is a super welcome bump to the weapon's controllability. [Recommended MW: Any]
+
+// Code Duello
+dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942#notes:Rostopher: PvE DPS pick. As long as you can make sure you're not missing (as this weapon lacks tracking), this offers some of the best sustained DPS of any heavy weapon. Particularly potent when combined with hotswapping, and even more so if someone is running Divinity. [Recommended MW: Velocity]
+
+// Cold Denial
+dimwishlist:item=1216130969&perks=839105230,3230963543,2779035018,2458213969#notes:Rostopher: Generalist pick. Whilst this weapon is cumbersome at the best of times, this set of perks is a great combo assuming you can get to grips with the poor handling and odd scope. [Recommended MW: Stability]
+
+// Commemoration
+dimwishlist:item=4230965989&perks=839105230,3142289711,1359896290,588594999#notes:Rostopher: PvP pick. 450 machine guns are the go-to for PvP, and this roll makes sure you keep on target, keeping the recoil under control, pushing the range out to pretty close to maximum, and bumping your aim assist whilst moving. [Recommended MW: Stability]
+dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926,#notes:Rostopher: PvE pick. Reconstruction turns this weapon from 'another machine gun' into something special. Extended mag means you can have up to 146 bullets in a magazine, which is, y'know, insane. Rampage is the best of a bad bunch of machine guns in column 4, and the barrel perks don't really make much impact on how you'll use this weapon. [Recommended MW: Any]
+
 // Crimil's Dagger
-dimwishlist:item=4292849692&perks=1926090095,106909392,1168162263,1015611457#notes:Rostopher: Hakke hand cannons� they kinda just feel bad. The poor handling stat is not well offset by the higher than average base aim assistance, with recoil that tends right as compared to the vast majority of other Aggressives, which tend to be left or straight. That said, this roll is, mechanically, very efficient, and if you can get around the poor handling and weird recoil, it's very usable. [Recommended MW: Handling]
+dimwishlist:item=4292849692&perks=1926090095,106909392,1168162263,1015611457#notes:Rostopher: Hakke hand cannons… they kinda just feel bad. The poor handling stat is not well offset by the higher than average base aim assistance, with recoil that tends right as compared to the vast majority of other Aggressives, which tend to be left or straight. That said, this roll is, mechanically, very efficient, and if you can get around the poor handling and weird recoil, it's very usable. [Recommended MW: Handling]
+
+// Dead Man's Tale
+dimwishlist:item=3654674561&perks=4090651448,3142289711,1546637391,4259401308#notes:Rostopher: PvP/Generalist S-tier roll. Vorpal is exceptional on this weapon, turning it into a Super-melting machine in PvP, and performing really well in PvE, particularly in higher-end content when Scout Rifles are in the Champion meta. This roll maximises range without sacrificing handling, keeping the weapon snappy whilst pushing out the aim assist on the hip fire as far as possible. [Recommended MW: Any]
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1354429876,3465198467#notes:Rostopher: PvE S-tier roll - Fourth Time's synergises perfectly with Dead Man's exotic perk, letting you fire a total of 22 rounds before needing to reload, as long as you're nailing all precision hits. Corkscrew rifling and Composite Stock are probably best in slot options, and Armour Piercing does more damage to shields when you need it to. [Recommended MW: Any]
 
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Rostopher: PvP pick. This roll will feel SUPER snappy, and will hit close to 140's range cap when ADS thanks to rangefinder. Ricochet for the cheeky range and stablity buff, and steadyhand to keep the stability in check.  [Recommended MW: Range]
@@ -24,6 +103,23 @@ dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#note
 
 // False Promises
 dimwishlist:item=3143732432&perks=839105230,3230963543,3643424744,3425386926#notes:Rostopher: This is a great roll on a not great weapon. High Impacts fire bullets and that's all that can really be said of them. That said, this roll is fun enough to run in strikes if you're looking for something to mix things up. [Recommended MW: Stability]
+
+// Friction Fire
+dimwishlist:item=1513993763&perks=4090651448,3230963543,2450788523,3425386926#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Killing Wind/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
+dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3425386926#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Subsistence/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
+
+// Frozen Orbit
+dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887#notes:Rostopher: PvP pick. This roll maximises range, without sacrificing handling, and snapshot sights will offset the slow ADS speed, allowing you to nail those quickscopes. [Recommended MW: Range]
+dimwishlist:item=3473290087&perks=1840239774,1087426260,3300816228,706527188#notes:Rostopher: PvE pick. Auto-Loading/Quickdraw is a nice perk combo, particularly for moments were you need to do a quick burst of DPS. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=1840239774,1087426260,3300816228,1546637391#notes:Rostopher: PvE pick. Auto-Loading/Vorpal is a nice perk combo, particularly for moments were you need to do a quick burst of DPS. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=1840239774,2420895100,3400784728,1546637391#notes:Rostopher: PvE pick. Triple Tap/Vorpal is a nice perk combo for when you need some sustained DPS. Extended Mag needs combined with the Backup Mag mod, giving you 5 in the chamber, and allowing you to fire up to 7 shots as long as you nail your precision hits. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,47981717#notes:Rostopher: PvP pick. Assuming you are comfotable with hard-scoping, rather than needing to quickscope, this roll has ungodly levels of aim assistance on the first shot fired. Maximised range pushes your aim assistance cone out as far as possible. [Recommended MW: Range]
+
+// Gridskipper
+dimwishlist:item=1621558458&perks=4090651448,679225683,2946784966,2458213969#notes:Rostopher: Generalist pick. My personal roll of this weapon, and ho boy does it slap. Corkscrew Rifling does a nice flat buff to handling, stability and range, Light Mag keeps the reload snappy and pushes out your range; and Tunnel Vision locks your high-damage shots from Multi-Kill Clip onto the heads of your enemies. Thoroughly recommend, even if you don't like pulse rifles. [Recommended MW: Stability]
+
+// IKELOS_SMG_v1.0.2
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1631667848,3523296417#notes:Rostopher: PvE pick. The 'Gravy Roll', this weapon has excellent utility, with not 1, not 2, but 3 different ways to reload it (manual, melee kill, throw grenade). Seraph Rounds do bonus stagger damage against combatants, and Corkscrew Rifling is a nice flat buff to 3 stats. [Recommended MW: Range]
 
 // Night Watch
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Rostopher: This is the curated roll of this weapon, and it only drops from the New Light campaign, or from Gambit Prime/The Reckoning back when those were in the game. Do not get rid of this; it's not only rare, it's an extremely fun weapon to use. Hip fire for maximum AC-130 vibes. [Recommended MW: Handling]
@@ -38,30 +134,157 @@ dimwishlist:item=1561006927&perks=839105230,1885400500,1354429876,3425386926#not
 dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,2458213969#notes:Rostopher: For PvP, this roll of the weapon does W O R K. Multi-Kill Clip is surprisingly effective on 600s, even with just one stack. Dynamic sway reduction keeps your bullets on target, and accurized lets you hit at unexpected ranges for an AR. [Recommended MW: Stability]
 dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,2458213969#notes:Rostopher: Red Dot Micro, in my opinon, is the most usable scope on this weapon; Tactical Mag is best in slot for the buffs to mag size, reload speed and stability. Feeding Frenzy and MKC synergise nicely, so this would be an all-round extremely solid roll for PvE. [Recommended MW: Stability]
 
+// The Number
+dimwishlist:item=2492081469&perks=4090651448,1885400500,2450788523,2458213969#notes:Rostopher: The Number is an existential crisis of a weapon - existing purely to demonstrate how much better Shadow Price is than it, with it having the same element, and vastly inferior stats than even the basic version of the Nightfall weapon. That said, this roll is extremely functional, and will work well in both PvE and PvP if you care to use it. [Recommended MW: Stability]
+
+// The Palindrome
+dimwishlist:item=432476743&perks=1482024992,1087426260,2450788523,3425386926#notes:Rostopher: Surprise PvE pick. Killing Wind and Rampage is a really great combo, as KW makes Rampage feel like it really kicks in, as you not only gain the damage buff, but also a range buff, and your gain the proverbial zoomies. Whilst the base of 10 in the mag is fine, Appended gets you up to 2 with no penalty to reload speed (and allowing you to run Rampage spec), and Smallbore is an always welcome flat buff to Stability and Range. [Recommended MW: Any]
+
 // The Palindrome (Adept)
 dimwishlist:item=1481892490&perks=4090651448,2420895100,3643424744,4049631843#notes:Rostopher: A Palindrome with 26 bullets in the mag. Do I need to say any more? [Recommended MW: Reload]
 dimwishlist:item=1481892490&perks=4090651448,2420895100,3643424744,3425386926#notes:Rostopher: A Palindrome with 26 bullets in the mag. Do I need to say any more? [Recommended MW: Reload]
 dimwishlist:item=1481892490&perks=4090651448,1561002382,706527188,2846385770#notes:Rostopher: PvP pick for this weapon. Quickdraw means you can get it out fast in a tight spot, and Rangefinder more or less makes the weapon hit the range cap for 140s when aiming down sights. Hi-Cal gives you a nice buff to range, and some extra flinch, and Corkscrew Rifling gives a flat buff to handling, range and stability. [Recommended MW: Stability]
 dimwishlist:item=1481892490&perks=4090651448,1885400500,1168162263,3425386926#notes:Rostopher: This weapon will be a PvE workhorse. The classic Outlaw/Rampage combo, with a range and stability buff from Ricochet Rounds, and a flat buff to its Range, Stability and Handling from Corkscrew Rifling. Plus, the weapon feels incredible to fire. Just crack heads, and the slight reload defecit vanishes. [Recommended MW: Range]
 dimwishlist:item=1481892490&perks=4090651448,1885400500,706527188,2846385770#notes:Rostopher: PvP pick for this weapon. Quickdraw means you can get it out fast in a tight spot, and Rangefinder more or less makes the weapon hit the range cap for 140s when aiming down sights. Richochet Rounds give you that sweet buff to stability and range, and Corkscrew Rifling gives a flat buff to handling, range and stability. [Recommended MW: Stability]
+dimwishlist:item=1481892490&perks=1482024992,1087426260,2450788523,3425386926#notes:Rostopher: Surprise PvE pick. Killing Wind and Rampage is a really great combo, as KW makes Rampage feel like it really kicks in, as you not only gain the damage buff, but also a range buff, and your gain the proverbial zoomies. Whilst the base of 10 in the mag is fine, Appended gets you up to 2 with no penalty to reload speed (and allowing you to run Rampage spec), and Smallbore is an always welcome flat buff to Stability and Range. [Recommended MW: Any]
+
+// The Vision
+dimwishlist:item=2414141462&perks=445755705,106909392,2010801679,4049631843#notes:Rostopher: PvE-focused pick. These burst side arms are absolutely monstrous in PvE, and with One for All, as long as you're comfortable proccing it, it ramps the damage up by 35%. Ambitious Assassin will get you just so many bullets in the mag. Combine with Tac Mag and Shortspec for flat buffs to almost every stat, this will be an extremely reliable sidearm. [Recommended MW: Reload]
+dimwishlist:item=2414141462&perks=445755711,3142289711,2450788523,1015611457#notes:Rostopher: Generalist pick. These burst sidearms are excellent in both PvE and PvP, with an extraordinary damage output within their range. Killing Wind will push that range out even further, and Kill Clip pushes your PvP TTK down to a ludicrous 0.43 seconds, and ramping up your damage in PvE. With Accurized and Target SAS, your pushing your range out even further. [Recommended MW: Range]
 
 // Whispering Slab
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942,4082225868#notes:Rostopher: Ah, Whispering Slab, or The Surfboard as it's known. This is a classic bow roll - nailing headshots makes you fire more arrows, and Swashbuckler is a great replacement for Rampage. It works a treat. Plus, it sounds terrific when it looses.  [Recommended MW: Draw Time]
 
+// Blast Battue
+dimwishlist:item=2453357042&perks=3301904089,2450788523,2396489472,#notes:Rostopher: PvE pick. Chain reaction on this weapon is possibly the only thing that makes it stand out. Otherwise, the odd placement of perks in the columns make it tough to love this weapon in PvE when Interference VI exists. [Recommended MW: Any]
+
+// Bonechiller
+dimwishlist:item=4037745684&perks=1840239774,791862061,3300816228,3523296417#notes:Rostopher: PvE pick. Whilst it's no First In, Last Out, this weapon still holds its own in PvE with this super interesting roll. Fire 6 shots, reload by throwing your grenade, fire 6 more, then stow it to let auto-loading kick in. [Recommended MW: Any]
+dimwishlist:item=4037745684&perks=1840239774,791862061,3400784728,3523296417#notes:Rostopher: PvE pick. Whilst it's no First In, Last Out, this weapon still holds its own in PvE with this super interesting roll. Triple Tap lets you fire 7 shots before needing to reload, and reload you can with yeeting a grenade, for a total of 14 shots and your grenade damage in sweet sweet DPS. [Recommended MW: Any]
+dimwishlist:item=4037745684&perks=3250034553,3142289711,280464955,47981717#notes:Rostopher: PvP pick. Whilst Bonechiller isn't as highly regarded as First In, Last Out or Blasphemer in PvP, this roll will work exceptionally well, particularly if you’re a sliding shotgun ape. Firmly Planted kicks in when you slide, then combines with the max range and opening shot to get unreasonably accurate murder. [Recommended MW: Handling]
+
+// Chroma Rush
+dimwishlist:item=1119734784&perks=2779035018,1015611457,#notes:Rostopher: PvE pick. Feeding Frenzy + Kill Clip is a lovely synergistic combo, giving you a huge bump to your already impressive DPS on this weapon. Pretty much any combination of magazine and barrel perk will work here, but keep an eye out for Tac Mag or Alloy Mag for maximising this thing's potential. [Recommended MW: Any]
+dimwishlist:item=1119734784&perks=1820235745,3425386926,#notes:Rostopher: PvE pick. Subsistence + Rampage is a quintessential add-clearing pick, and the massive magazine on this weapon means as long as your focusing on red-bars, you may never need to reload. [Recommended MW: Any]
+
+// Code Duello
+dimwishlist:item=2496242052&perks=3525010810,3796465595,3927722942,#notes:Rostopher: PvE DPS pick. As long as you can make sure you're not missing (as this weapon lacks tracking), this offers some of the best sustained DPS of any heavy weapon. Particularly potent when combined with hotswapping, and even more so if someone is running Divinity.  There is no bad choice in column 3, so use what you have and do big damage. [Recommended MW: Velocity]
+
+// Commemoration
+dimwishlist:item=4230965989&perks=2420895100,1523832109,#notes:Rostopher: PvE pick. Reconstruction turns this weapon from 'another machine gun' into something special. Extended mag means you can have up to 146 bullets in a magazine, which is, y'know, insane. [Recommended MW: Any]
+
+// Distant Tumulus
+dimwishlist:item=2807687156&perks=2848615171,1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, and uniquely has Dragonfly in Column 3, so can combine with Firing Line for dual utility, so is worth a look for that. [Recommended MW: Any]
+
+// The Vision
+dimwishlist:item=2414141462&perks=2450788523,1015611457,#notes:Rostopher: Generalist pick. These burst sidearms are excellent in both PvE and PvP, with an extraordinary damage output within their range. Killing Wind will push that range out even further, and Kill Clip pushes your PvP TTK down to a ludicrous 0.43 seconds, and ramping up your damage in PvE. Even without min/maxing the barrel and sights, this will be a monster. [Recommended MW: Any]
+
+// Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,3425386926,#notes:Rostopher: The classic bow roll. If you like bows, this'll do it for you - it's a beautiful-feeling bow that is rare as hell, so if you have this, keep it. Pretty much any string and arrow perks will work. [Recommended MW: Draw Time]
+
+// Age-Old Bond
+dimwishlist:item=601592879&perks=3400784728,1015611457,#notes:Rostopher: Rolls other than the curated roll for this weapon suffer from a distinct lack of perk synergy available. This is the best of a bad bunch, and even then, consider running a few more Last Wishes to see if you can snag the curated roll. [Recommended MW: Any]
+
+// Ancient Gospel
+dimwishlist:item=48643186&perks=1168162263,1015611457,#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. Outlaw/Kill Clip is a classic synergistic pairing that'll minimise your downtime and maximise your damage output. [Recommended MW: Any]
+dimwishlist:item=48643186&perks=1168162263,4082225868,#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. Outlaw/Swash is a great pairing of utility and damage perk, and allows you to get stuck into the fray, punch a guy and gain a big damage buff. [Recommended MW: Any]
+dimwishlist:item=48643186&perks=247725512,1015611457,#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. Rapid Hit/Kill Clip is a great pairing on Hand Cannons, with the former not only increasing your reload speed, but also ramping up your stability as your hit more precision shots. Reload for a tasty damage buff. [Recommended MW: Any]
+dimwishlist:item=48643186&perks=247725512,4082225868,#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. Rapid Hit/Swash is a great pairing of utility and damage perk, and allows you to get stuck into the fray, punch a guy and gain a big damage buff. [Recommended MW: Any]
+
+// Apex Predator
+dimwishlist:item=2545083870&perks=2010801679,1015611457,#notes:Rostopher: Apex Predator is the runt of the rocket launcher family. It's perk selection is microscopic, its curated roll is weird at the best of times and it has largely been superceded by Code Duello. This roll is more interesting than practical, with Kill Clip and Ambitious Assassin being curiously synergistic. Fire, kill some dudes, reload, get 2 mega-charged rockets. Rinse and repeat as necessary. [Recommended MW: Any]
+dimwishlist:item=2545083870&perks=3977735242,3300816228,#notes:Rostopher: Apex Predator is the runt of the rocket launcher family. It's perk selection is microscopic, its curated roll is weird at the best of times and it has largely been superceded by Code Duello. Still, auto-loading/tracking is a solid pick for any rocket launcher, and will work great on this one. [Recommended MW: Any]
+
+// Arctic Haze
+dimwishlist:item=20935540&perks=1820235745,2848615171,#notes:Rostopher: PvE pick. Arctic Haze is sorely underrated, and that's largely down to it's lack of damage-boosting perk. However, this roll is a bit of a treat, with Dragonfly kills proccing Subsistence, so for low-level content, this is an add-clearing machine. [Recommended MW: Any]
+dimwishlist:item=20935540&perks=3400784728,1546637391,#notes:Rostopher: PvE pick. Arctic Haze is sorely underrated, and that's largely down to it's lack of damage-boosting perk. However, in mid-to-high end content (assuming Autos are in the champion meta), this roll will do work, with Triple Tap meaning you can fire for days on a stunned champ, and Vorpal boosting your damage on the target. [Recommended MW: Any]
+
+// Arsenic Bite-4b
+dimwishlist:item=720351795&perks=2848615171,201365942,#notes:Rostopher: PvE pick. The OG energy bow, the combo of Archer's Tempo and Dragonfly is a thing of beauty. Even without min-maxing the string and arrow perks, this'll do work for you. [Recommended MW: Any]
+dimwishlist:item=720351795&perks=3425386926,201365942,#notes:Rostopher: PvE pick. The OG energy bow, the combo of Archer's Tempo and Rampage is a thing of beauty. Even without min-maxing the string and arrow perks, this'll do work for you. [Recommended MW: Any]
+
+// Avalanche
+dimwishlist:item=66875353&perks=3300816228,1546637391,#notes:Rostopher: PvE pick. Avalanche may look like a slightly mishapen potato, but as machine guns go, this thing will do work. Fire until empty on the nearest yellow bar, holster it and let auto-loading do its work, rinse and repeat. [Recommended MW: Any]
+
+// Bad Omens
+dimwishlist:item=991314988&perks=3977735242,1275731761,#notes:Rostopher: PvE pick. Bad Omens is a lovely rocket launcher that has, sadly been largely superceded by the superior Royal Entry. That said, this roll will be entirely functional at Blowing Shit Up™. [Recommended MW: Any]
+
+// Bequest
+dimwishlist:item=3366545721&perks=2726471870,#notes:Rostopher: PvE oddball pick. Thresh is good on swords, and this is one of only a handful that can roll it. [Recommended MW: Any]
+
+// Blasphemer
+dimwishlist:item=2782847179&perks=791862061,1354429876,#notes:Rostopher: PvE pick. Blasphemer is unique in that it can roll Fourth Time's the Charm, meaning you can fire it 10 times before you need to reload, which is great in a variety of stationary boss situations. [Recommended MW: Reload]
+
+// Blast Battue
+dimwishlist:item=2453357042&perks=2396489472,#notes:Rostopher: PvE pick. Chain reaction on this weapon is possibly the only thing that makes it stand out. Otherwise, the odd placement of perks in the columns make it tough to love this weapon in PvE when Interference VI exists. [Recommended MW: Any]
+
 // Bottom Dollar
 dimwishlist:item=1046651176&perks=2458213969#notes:Rostopher: Multi-Kill Clip is great on this weapon. Ideally you want something that enhances reload speed (Outlaw, Rapid Hit, Feeding Frenzy, Surplus). Avoid Subsistence, it feels awful. If you can get Tactical or Appended Magazine, that's great too. [Recommended MW: Any]
+
+// Brass Attacks
+dimwishlist:item=2121785039&perks=4090651448,1885400500,2450788523,4104185692#notes:Rostopher: PvE pick. Brass Attacks is a workhorse in PvE. With Frenzy, you don't really need a reload perk, as Frenzy IS a reload perk, so Killing Wind is the almost obvious replacement for Feeding Frenzy or Rapid Hit, pushing your range out ludicrously, and giving you the zoomies in the process. [Recommended MW: Stability]
+dimwishlist:item=2121785039&perks=2779035018,3425386926,#notes:Rostopher: PvE pick. Brass Attacks is a workhorse in PvE, and Feeding Frenzy/Rampage synergises beautifully, particularly in lower end content. [Recommended MW: Any]
+dimwishlist:item=2121785039&perks=2450788523,4104185692,#notes:Rostopher: PvE pick. Brass Attacks is a workhorse in PvE. With Frenzy, you don't really need a reload perk, as Frenzy IS a reload perk, so Killing Wind is the almost obvious replacement for Feeding Frenzy or Rapid Hit, pushing your range out ludicrously, and giving you the zoomies in the process. [Recommended MW: Any]
+
+// BrayTech Werewolf
+dimwishlist:item=528834068&perks=1354429876,4082225868,#notes:Rostopher: If you don't have the curated roll of this weapon, this roll is a great alternative for PvE. FTTC is great on Autos, and Swashbuckler lets you get stuck into the fray for big damage buffs on melee kills. [Recommended MW: Any]
+
+// Code Duello
+dimwishlist:item=2496242052&perks=3796465595,3927722942,#notes:Rostopher: PvE DPS pick. As long as you can make sure you're not missing (as this weapon lacks tracking), this offers some of the best sustained DPS of any heavy weapon. Particularly potent when combined with hotswapping, and even more so if someone is running Divinity.  Lasting Impression with Impact Casing does a lot of work to make this weapon servicable, so even without the perfect perks in the other slots, this will do work. [Recommended MW: Velocity]
+
+// Commemoration
+dimwishlist:item=4230965989&perks=1523832109,#notes:Rostopher: PvE pick. Reconstruction turns this weapon from 'another machine gun' into something special. [Recommended MW: Any]
+
+// Dead Man's Tale
+dimwishlist:item=3654674561&perks=1354429876,#notes:Rostopher: PvE pick - Fourth Time's synergises perfectly with Dead Man's exotic perk, letting you fire a total of 22 rounds before needing to reload, as long as you're nailing all precision hits. Whilst this perk on this own makes this weapon exceptional, there is a better specific roll available if you care to keep grinding. [Recommended MW: Any]
+dimwishlist:item=3654674561&perks=1546637391,#notes:Rostopher: PvP/Generalist roll. Vorpal  is exceptional on this weapon, turning it into a Super-melting machine in PvP, and performing really well in PvE, particularly in higher-end content when Scout Rifles are in the Champion meta. Just Vorpal makes this weapon stand out, regardless of the rest of your perks, but a better roll is available if you care to keep grinding. [Recommended MW: Any]
+
+// Deafening Whisper
+dimwishlist:item=981718087&perks=3300816228,#notes:Rostopher: Auto-Loading Holster on this weapon is great, and the weapon is strong enough despite its weird perk pool that this will carry it almost entirely. [Recommended MW: Any]
 
 // Dire Promise
 dimwishlist:item=2742838701&perks=3643424744,4082225868,#notes:Rostopher: Dire Promise, the old crucible favourite, has this roll, which is great in PvE. The sights perk doesn't really matter, and the only magazine perk that you should probably avoid is extended, as it makes the reload interminable. [Recommended MW: Any]
 
+// Distant Tumulus
+dimwishlist:item=2807687156&perks=1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, so is worth a look for that. [Recommended MW: Any]
+
+// Friction Fire
+dimwishlist:item=1513993763&perks=2450788523,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Killing Wind/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
+dimwishlist:item=1513993763&perks=1820235745,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs, thanks to it's thunderous handling and slow reload speed, but Subsistence/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
+
+// Frozen Orbit
+dimwishlist:item=3473290087&perks=3300816228,706527188,#notes:Rostopher: PvE pick. Auto-Loading/Quickdraw is a nice perk combo, particularly for moments were you need to do a quick burst of DPS. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=3300816228,1546637391,#notes:Rostopher: PvE pick. Auto-Loading/Vorpal is a nice perk combo, particularly for moments were you need to do a quick burst of DPS. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=588594999,47981717,#notes:Rostopher: PvP pick. Assuming you are comfotable with hard-scoping, rather than needing to quickscope, this roll has ungodly levels of aim assistance on the first shot fired. [Recommended MW: Range]
+dimwishlist:item=3473290087&perks=588594999,957782887,#notes:Rostopher: PvP pick. Snapshot sights and Moving Target will offset the slow ADS speed, and provide a little bump to Aim Assistance, allowing you to nail those quickscopes. [Recommended MW: Range]
+
+// Gridskipper
+dimwishlist:item=1621558458&perks=2946784966,2458213969,#notes:Rostopher: Generalist pick. Gridskipper is the dark horse of Season of the Splicer, a pulse rifle that feels good even to folk who don't like pulses. Multi-Kill Clip and Tunnel Vision feature excellent synergy, and combined with the pulse's zippy fire rate, absolutely melts combatants and guardians alike, with the aim assist boost magnetising bullets to the crit spots of your foes. [Recommended MW: Any]
+
 // Seventh Seraph Carbine
 dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:Rostopher: This perk combo on this weapon is excellent. Just make sure you're cracking heads, and you can fire this thing for days, with ramped up damage from Rampage offsetting the somewhat disappointing damage of the archetype at base. Whack on a Rampage Spec from maximum carnage. [Recommended MW: Any]
 
+// The Number
+dimwishlist:item=2492081469&perks=2450788523,2458213969,#notes:Rostopher: The Number is an existential crisis of a weapon - existing purely to demonstrate how much better Shadow Price is than it, with it having the same element, and vastly inferior stats than even the basic version of the Nightfall weapon. That said, it can roll perks that Shadow Price cannot, including Multi-Kill Clip which you have here. Killing Wind is the best of a bad bunch, and any combination of barrel and mag perks will work here. [Recommended MW: Any]
+dimwishlist:item=2492081469&perks=2450788523,4049631843,#notes:Rostopher: The Number is an existential crisis of a weapon - existing purely to demonstrate how much better Shadow Price is than it, with it having the same element, and vastly inferior stats than even the basic version of the Nightfall weapon. One for All is the larget damage buff you can get from a perk, and Killing Wind is the best of a bad bunch in column 3.  Any combination of barrel and mag perks will work here. [Recommended MW: Any]
+
+// Adored
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391#notes:Rostopher: Adored is a great generalist sniper - Triple Tap and Vorpal makes it potent in PvE (though better snipers are available, though not in Arc flavour), and Killing Wind/Snapshot makes it excellent in PvP. A keeper for sure. [Recommended MW: Any]
+
 // Any
+dimwishlist:item=-69420&perks=1631667848,4082225868,#notes:Rostopher: PvE oddball pick. Grave Robber and Swashbuckler in combination are a beautifully synergistic combo, and will work on pretty much any weapon, albeit only in activities where there is the potential to punch one guy, then unleash on the next. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,4104185692#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,3425386926#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,3708227201#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,4082225868#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+
+// Code Duello
+dimwishlist:item=2496242052&perks=3927722942#notes:Rostopher: PvE DPS pick. As long as you can make sure you're not missing (as this weapon lacks tracking), this offers some of the best sustained DPS of any heavy weapon. Particularly potent when combined with hotswapping, and even more so if someone is running Divinity.  Lasting Impression does a lot of work to make this weapon servicable, so even without the perfect perks in the other slots, this will do work. [Recommended MW: Velocity]
+
+// Frozen Orbit
+dimwishlist:item=3473290087&perks=2551157718,#notes:Rostopher: PvE pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and Box Breathing is a nice consolation prize if you couldn't get Vorpal [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=957782887,#notes:Rostopher: PvP pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and Snapshot negates a lot of the downsizes of running an Aggressive Frame sniper. [Recommended MW: Any]
+dimwishlist:item=3473290087&perks=1546637391,#notes:Rostopher: PvE pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and this is one of only a small number of snipers that can roll Vorpal, so this is worth keeping. [Recommended MW: Any]
 
 // Hand Cannon
 dimwishlist:item=6&perks=2779035018,1015611457#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
@@ -76,5 +299,5 @@ dimwishlist:item=6&perks=247725512,2458213969#notes:Rostopher: Reload speed perk
 dimwishlist:item=11&perks=3300816228,2360754333#notes:Rostopher: Shotguns with Auto-Loading and Trench are, generally, quite good in PvE. Pull it out, punch a guy, then pump out three big-damage shots. Holster it and go back to your day. You want magazine perks that enhance magazine size; or Assault Mag for faster damage output. The only barrel perk you want to avoid with this roll is Full Choke, which reduces precision damage. [Recommended MW: Any]
 
 // Sword
-dimwishlist:item=54&perks=1749209109,3913600130,#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keep. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
+dimwishlist:item=54&perks=1749209109,3913600130#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keeping. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
 
