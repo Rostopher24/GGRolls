@@ -248,6 +248,9 @@ dimwishlist:item=2742838701&perks=3643424744,4082225868,#notes:Rostopher: Dire P
 // Distant Tumulus
 dimwishlist:item=2807687156&perks=1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, so is worth a look for that. [Recommended MW: Any]
 
+// Fatebringer
+dimwishlist:item=2171478765&perks=3038247973,3824105627,#notes:Rostopher: Explosive Payload and Firefly is the O.G. roll from Destiny 1, and it still holds up in D2's sandbox. [Recommended MW: Any]
+
 // Friction Fire
 dimwishlist:item=1513993763&perks=2450788523,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Killing Wind/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
 dimwishlist:item=1513993763&perks=1820235745,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs, thanks to it's thunderous handling and slow reload speed, but Subsistence/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
