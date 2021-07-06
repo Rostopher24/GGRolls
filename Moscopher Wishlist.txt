@@ -5,7 +5,7 @@ description:This is a compiled list of recommended and god rolls from The Guardi
 dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,3425386926#notes:Rostopher: This is the discerning bow-users roll. Buffs to accuracy from the string and arrow perks, alongside the classic Archer's Tempo/Rampage combo. This bow is rare as hell, and this is a perfect roll on it, so whack a rampage spec on it, and keep it. [Recommended MW: Draw Time]
 
 // Age-Old Bond
-dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Rostopher: Whilst 260 autos aren't exactly optimal weapons, this curated roll works just fine for low-level activities. [Recommended MW: Any]
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Rostopher: Whilst 360 autos aren't exactly optimal weapons, this curated roll works just fine. It's got a ton of range, so can be useful for cracking void shields at range, and pairs really nicely with Anti-Barrier Auto Rifle when it's on the artefact. [Recommended MW: Any]
 
 // Ancient Gospel
 dimwishlist:item=48643186&perks=4090651448,106909392,1168162263,1015611457#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. This roll is fully min/maxed to do work for you, with Outlaw and Kill Clip providing a lovely synergistic pairing, and Tactical Mag bumping up your magazine size and reducing your reload speed, to minimise your downtime. [Recommended MW: Any]
@@ -122,7 +122,7 @@ dimwishlist:item=2714022207&perks=839105230,1687452232,280464955,2213355989#note
 dimwishlist:item=2714022207&perks=202670084,1687452232,588594999,2213355989#notes:Rostopher: PvP pick. Linear fusions are low-key great picks in PvP for your heavy slot, particularly if you're good at hitting headshots. This roll will give you that, and will even do respectable damage with bodyshits. [Recommended MW: Range]
 
 // Crimil's Dagger
-dimwishlist:item=4292849692&perks=1926090095,106909392,1168162263,1015611457#notes:Rostopher: Hakke hand cannons… they kinda just feel bad. The poor handling stat is not well offset by the higher than average base aim assistance, with recoil that tends right as compared to the vast majority of other Aggressives, which tend to be left or straight. That said, this roll is, mechanically, very efficient, and if you can get around the poor handling and weird recoil, it's very usable. [Recommended MW: Handling]
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,3038247973#notes:Rostopher: PvP pick. Steadyhand goes a long way to offsetting the weapon's inherently poor handling and stability stats, with Accurized and Rangefinder doing the bulk of the work in the range department. Explosive Payload is incredibly irritating to fight against, particularly when you're being pinged at the range 120s are capable of. [Recommended MW: Stability]
 
 // Crowd Pleaser
 dimwishlist:item=3565520715&perks=3798852852,409831596,2450788523,3425386926#notes:Rostopher: Holy shit you got this roll? The chances are so low! This roll will be a monster in PvP, lock it and hold onto it. [Recommended MW: Velocity]
@@ -139,8 +139,12 @@ dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#not
 // Death Adder
 dimwishlist:item=2742490609&perks=4090651448,106909392,3513791699,2848615171#notes:Rostopher: One of the few half decent rolls on this weapon. This is one of only a handful of weapons that can roll mulligan, so that makes it somewhat interesting. [Recommended MW: Handling]
 
+// Corrective Measure
+dimwishlist:item=471518543&perks=1392496348,3142289711,1359896290,2213355989#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP. Dynamic Sway Reduction will help keep you on target. This also features close to max range and stability, to keep you consistent and engaging at any given range in PvP. [Recommended MW: Stability]
+dimwishlist:item=471518543&perks=1392496348,2420895100,1820235745,4049631843#notes:Rostopher: Bonafide PvE gold. Subsistence works terrifically with this meaty magazine - if you have to reload this weapon, you fired it at the wrong enemy. Use it as a red/orange-bar shredder, and pair it with a spec GL or sniper for boss DPS. [Recommended MW: Stability]
+
 // Dire Promise
-dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Rostopher: PvP pick. This roll will feel SUPER snappy, and will hit close to 140's range cap when ADS thanks to rangefinder. Ricochet for the cheeky range and stablity buff, and steadyhand to keep the stability in check.  [Recommended MW: Range]
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:Rostopher: PvP pick. For a ludicrously consistent neutral hand cannon, look no further. This thing can touch up to nearly 33 meters, has incredibly forgiving aim assistance, and opening shot will magnetise that first shot to your opponents head. An outstanding duelling weapon, definitely worth a keep if you're into PvP. [Recommended MW: Range]
 
 // Drang
 dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711#notes:Rostopher: It's Drang. Pair it with Sturm. Or don't, I'm not your boss.
@@ -237,6 +241,10 @@ dimwishlist:item=3512349612&perks=1687452232,2779035018,2726471870#notes:Rostoph
 // Death Adder
 dimwishlist:item=2742490609&perks=4090651448,106909392,2848615171,#notes:Rostopher: One of the few half decent rolls on this weapon - and even then, the column 3 selection is so poor that basically anything will do here. [Recommended MW: Handling]
 
+// Dire Promise
+dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770#notes:Rostopher: PvP pick. For a ludicrously consistent neutral hand cannon, look no further. This thing can touch up to nearly 33 meters, has incredibly forgiving aim assistance, and opening shot will magnetise that first shot to your opponents head. An outstanding duelling weapon, definitely worth a keep if you're into PvP. [Recommended MW: Range]
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:Rostopher: PvP pick. This roll will feel SUPER snappy, and will hit close to 140's range cap when ADS thanks to rangefinder. Ricochet for the cheeky range and stablity buff, and steadyhand to keep the stability in check.  [Recommended MW: Range]
+
 // Distant Tumulus
 dimwishlist:item=2807687156&perks=2848615171,1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, and uniquely has Dragonfly in Column 3, so can combine with Firing Line for dual utility, so is worth a look for that. [Recommended MW: Any]
 
@@ -246,8 +254,8 @@ dimwishlist:item=2414141462&perks=2450788523,1015611457,#notes:Rostopher: Genera
 // Accrued Redemption
 dimwishlist:item=4095896073&perks=201365942,3425386926,#notes:Rostopher: The classic bow roll. If you like bows, this'll do it for you - it's a beautiful-feeling bow that is rare as hell, so if you have this, keep it. Pretty much any string and arrow perks will work. [Recommended MW: Draw Time]
 
-// Age-Old Bond
-dimwishlist:item=601592879&perks=3400784728,1015611457,#notes:Rostopher: Rolls other than the curated roll for this weapon suffer from a distinct lack of perk synergy available. This is the best of a bad bunch, and even then, consider running a few more Last Wishes to see if you can snag the curated roll. [Recommended MW: Any]
+// Archon's Thunder
+dimwishlist:item=1967303408&perks=839105230,106909392,3513791699,3425386926#notes:Rostopher: This here is the best roll available on this weapon. Arrowhead Brake sorts out its weird recoil pattern, Tactical Mag buffs the magazine size, reload speed and stability, and Mulligan/Rampage is a pretty tasty combo for those of us who like to shoot but sometimes miss things. [Recommended MW: Reload]
 
 // Ancient Gospel
 dimwishlist:item=48643186&perks=1168162263,1015611457,#notes:Rostopher: PvE pick. Ancient Gospel is a great little handcannon that'll do work wherever hand cannons are good. Outlaw/Kill Clip is a classic synergistic pairing that'll minimise your downtime and maximise your damage output. [Recommended MW: Any]
@@ -273,8 +281,8 @@ dimwishlist:item=720351795&perks=3425386926,201365942,#notes:Rostopher: PvE pick
 // Avalanche
 dimwishlist:item=66875353&perks=3300816228,1546637391,#notes:Rostopher: PvE pick. Avalanche may look like a slightly mishapen potato, but as machine guns go, this thing will do work. Fire until empty on the nearest yellow bar, holster it and let auto-loading do its work, rinse and repeat. The barrel and mag perks don't really make much of a difference, but look to increase your magazine size, and bump up your stablity as best you can. [Recommended MW: Any]
 
-// Bad Omens
-dimwishlist:item=991314988&perks=3977735242,1275731761,#notes:Rostopher: PvE pick. Bad Omens is a lovely rocket launcher that has, sadly been largely superceded by the superior Royal Entry. That said, this roll will be entirely functional at Blowing Shit Up™. [Recommended MW: Any]
+// Crown-Splitter
+dimwishlist:item=2782325302&perks=3666208348,1749209109,3913600130#notes:Rostopher: What you have here is the second best roll of this weapon. Relentless + Whirlwind is an extremely reliable combination, and technical outperforms Vorpal weapon in the DPS stakes, albeit you have to consume 4 ammo to ramp it up to maximum. Jagged Edge keeps your damage output up, so swing away.
 
 // Bequest
 dimwishlist:item=3366545721&perks=2726471870,#notes:Rostopher: PvE oddball pick. Thresh is good on swords, and this is one of only a handful that can roll it. [Recommended MW: Any]
@@ -342,7 +350,7 @@ dimwishlist:item=3654674561&perks=1546637391,#notes:Rostopher: PvP/Generalist ro
 dimwishlist:item=981718087&perks=3300816228,#notes:Rostopher: Auto-Loading Holster on this weapon is great, and the weapon is strong enough despite its weird perk pool that this will carry it almost entirely. [Recommended MW: Any]
 
 // Dire Promise
-dimwishlist:item=2742838701&perks=3643424744,4082225868,#notes:Rostopher: Dire Promise, the old crucible favourite, has this roll, which is great in PvE. The sights perk doesn't really matter, and the only magazine perk that you should probably avoid is extended, as it makes the reload interminable. [Recommended MW: Any]
+dimwishlist:item=2742838701&perks=1968497646,3400784728,1774574192,#notes:Rostopher: Oddball PvE pick. This roll will work well in situations where you maybe need an extra shield-cracking weapon. Armor-Piercing Rounds enhances its damage on shields, and Osmosis will let you turn it elemental with the throw of a grenade. The site doesn't really matter, but try to pick something that enhances stablity or handling. [Recommended MW: Reload]
 
 // Distant Tumulus
 dimwishlist:item=2807687156&perks=1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, so is worth a look for that. [Recommended MW: Any]
@@ -440,4 +448,82 @@ dimwishlist:item=-2714022207&perks=#notes:Rostopher: Whilst they did receive a b
 
 // Death Adder
 dimwishlist:item=-2742490609&perks=#notes:Rostopher: Death Adder was supposed to be the chosen one! It was supposed to replace The Recluse, not be left in Darkness! But in all seriousness, god this weapon is just disappointing as hell, with a poor selection of perks. It's only redeeming quality is it's one of only two solar SMGs in the game, so if you need to keep one on that basis, do so. There are also some rolls out there that do work, but this is not one of them, get it in the bin.
+
+// Dire Promise
+dimwishlist:item=2742838701&perks=1561002382,47981717,2846385770#notes:Rostopher: PvP pick. For a ludicrously consistent neutral hand cannon, look no further. This thing can touch up to nearly 33 meters, has incredibly forgiving aim assistance, and opening shot will magnetise that first shot to your opponents head. An outstanding duelling weapon, definitely worth a keep if you're into PvP. Choose a sight that gives you buffs to either Range or Stability. [Recommended MW: Range]
+
+// Corrective Measure (Timelost)
+dimwishlist:item=3796510434&perks=1392496348,3142289711,1359896290,2213355989#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP. Dynamic Sway Reduction will help keep you on target. This also features close to max range and stability, to keep you consistent and engaging at any given range in PvP. [Recommended MW: Stability]
+dimwishlist:item=3796510434&perks=1392496348,2420895100,1820235745,4049631843#notes:Rostopher: Bonafide PvE gold. Subsistence works terrifically with this meaty magazine - if you have to reload this weapon, you fired it at the wrong enemy. Use it as a red/orange-bar shredder, and pair it with a spec GL or sniper for boss DPS. [Recommended MW: Stability]
+
+// Crimil's Dagger
+dimwishlist:item=-4292849692&perks=1926090095,3142289711,2846385770,1954620775#notes:Rostopher: PvP pick. Steadyhand goes a long way to offsetting the weapon's inherently poor handling and stability stats, with Accurized and Rangefinder doing the bulk of the work in the range department. Timed Payload is incredibly irritating to fight against, particularly when you're being pinged at the range 120s are capable of.
+
+// Dire Promise
+dimwishlist:item=2742838701&perks=3643424744,4082225868,#notes:Rostopher: Dire Promise, the old crucible favourite, has this roll, which is great in PvE. The sights perk doesn't really matter, and the only magazine perk that you should probably avoid is extended, as it makes the reload interminable. Otherwise, focus on stability and handling to get the most out of it in PvE. [Recommended MW: Any]
+dimwishlist:item=2742838701&perks=47981717,2846385770#notes:Rostopher: PvP pick. For a ludicrously consistent neutral hand cannon, look no further. Rangefinder pushes out the weapons range while ADS-ing, and Opening Shot magnetises that first bullet to your opponents head. Look for sights and magazine perks that enhance your range and stability for consistency. In a pinch, extra bullets always help too. [Recommended MW: Range]
+
+// Crimil's Dagger
+dimwishlist:item=4292849692&perks=1926090095,106909392,1168162263,1015611457#notes:Rostopher: Hakke hand cannons… they kinda just feel bad. The poor handling stat is not well offset by the higher than average base aim assistance, with recoil that tends right as compared to the vast majority of other Aggressives, which tend to be left or straight. That said, this roll is, mechanically, very efficient, and if you can get around the poor handling and weird recoil, it's very usable. [Recommended MW: Handling]
+dimwishlist:item=4292849692&perks=4134353779,3400784728,1015611457,#notes:Rostopher: Goofball PvE pick. Triple tap lets fire the weapon 10 times instead of 7 as long as you're nailing headshots, and applying a backup mag mod will push the number up even further. Pick which ever sight gives you the biggest buff to stability. [Recommended MW: Stability]
+
+// Corrective Measure
+dimwishlist:item=471518543&perks=3523296417,11612903,#notes:Rostopher: Goofball PvE pick. This is one of the only weapons that can roll both Demolitionist and Adrenaline Junkie. Given the volume of enemies you can kill with machine guns, you'll be getting your grenade back fairly swiftly, and you can yeet it out to get a fairly hefty damage buff, further increasing your add-killing potential. Will slot very well into grenade-based builds.
+dimwishlist:item=471518543&perks=1359896290,2213355989,#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP. Dynamic Sway Reduction will help keep you on target - try to pick whatever barrel and mag perks you have that enhance stability or range.
+dimwishlist:item=471518543&perks=3418782618,3824105627,#notes:Rostopher: Goofball PvE pick. What this weapon lacks in damage, it more than makes up for in add-clear potential. Firefly 'tags' proc Rewind Rounds, so if you're up against clustered groups of adds you may never need to actually reload the weapon.
+
+// Corrective Measure (Timelost)
+dimwishlist:item=3796510434&perks=3523296417,11612903,#notes:Rostopher: Goofball PvE pick. This is one of the only weapons that can roll both Demolitionist and Adrenaline Junkie. Given the volume of enemies you can kill with machine guns, you'll be getting your grenade back fairly swiftly, and you can yeet it out to get a fairly hefty damage buff, further increasing your add-killing potential. Will slot very well into grenade-based builds.
+dimwishlist:item=3796510434&perks=1359896290,2213355989,#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP. Dynamic Sway Reduction will help keep you on target - try to pick whatever barrel and mag perks you have that enhance stability or range.
+dimwishlist:item=3796510434&perks=3418782618,3824105627,#notes:Rostopher: Goofball PvE pick. What this weapon lacks in damage, it more than makes up for in add-clear potential. Firefly 'tags' proc Rewind Rounds, so if you're up against clustered groups of adds you may never need to actually reload the weapon.
+
+// Crimil's Dagger
+dimwishlist:item=4292849692&perks=1168162263,1015611457,#notes:Rostopher: Following the nerf to 120 precision damage, this is one of the only remaining 120s that can roll with Kill Clip, and can therefore still two-tap with its damage perk active. Whilst the weapon itself is not as good as other 120s - featuring poorer numbers on nearly every stat including magazine size - this does give it some merit.
+dimwishlist:item=4292849692&perks=2846385770,3038247973,#notes:Rostopher: PvP pick. Explosive Payload is incredibly irritating to fight against, particularly when you're being pinged at the range 120s are capable of; especially with Rangefinder thrown into the mix. Pick whichever magazine and sight perks enhance your stability and handling the most. [Recommended MW: Stability]
+
+// Corrective Measure
+dimwishlist:item=471518543&perks=2213355989,#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP with just High Impact Reserves alone. Try to pick whatever barrel and mag perks you have that enhance stability or range, and make do with pretty much whatever you have in column 3.
+
+// Corrective Measure (Timelost)
+dimwishlist:item=3796510434&perks=2213355989,#notes:Rostopher: PvP pick. Given that you are guaranteed to get less than half the magazine on heavy ammo pickup, you've got here a very dangerous weapon in PvP with just High Impact Reserves alone. Try to pick whatever barrel and mag perks you have that enhance stability or range, and make do with pretty much whatever you have in column 3.
+
+// Crimil's Dagger
+dimwishlist:item=4292849692&perks=2846385770,1954620775,#notes:Rostopher: PvP pick. Timed Payload is incredibly irritating to fight against, particularly when you're being pinged at the range 120s are capable of; especially with Rangefinder thrown into the mix. Pick whichever magazine and sight perks enhance your stability and handling the most. [Recommended MW: Stability]
+dimwishlist:item=4292849692&perks=1015611457,#notes:Rostopher: Following the nerf to 120 precision damage, this is one of the only remaining 120s that can roll with Kill Clip, and can therefore still two-tap with its damage perk active. Whilst the weapon itself is not as good as other 120s - featuring poorer numbers on nearly every stat including magazine size - this does give it some merit.
+dimwishlist:item=-4292849692&perks=#notes:Rostopher: Crimil's Dagger does feature some excellent rolls - however, this is not one of them, and the weapon is not nearly strong enough to use without a good roll, given it's deeply inferior stats to nearly every other 120 hand cannon.
+
+// Archon's Thunder
+dimwishlist:item=1967303408&perks=839105230,3513791699,3425386926#notes:Rostopher: This here is the best roll available on this weapon. Arrowhead Brake sorts out its weird recoil pattern, and Mulligan/Rampage is a pretty tasty combo for those of us who like to shoot but sometimes miss things. Unfortunately, you're missing Tactical Mag, so try to pick whichever of the magazine perks you have best suits you.  [Recommended MW: Reload]
+
+// Age-Old Bond
+dimwishlist:item=601592879&perks=3400784728,1015611457,#notes:Rostopher: Rolls other than the curated roll for this weapon suffer from a distinct lack of perk synergy available. This is the best of a bad bunch, and even then, consider running a few more Last Wishes to see if you can snag the curated roll. [Recommended MW: Any]
+
+// Archon's Thunder
+dimwishlist:item=1967303408&perks=3513791699,3425386926,#notes:Rostopher: Whilst overall, this weapon is a bit disappointing, it is one of only a handful of weapons that can roll mulligan, and combining this with Rampage does turn it into a bit of a 'hold down the trigger and hope I kill everything in front of me' weapon, which makes it somewhat fun in low-level content.
+dimwishlist:item=1967303408&perks=3425386926,#notes:Rostopher: Rampage is literally the only useful perk on column 4 of this weapon, and since you have it, this is probably worth keeping despite its other perks. Try to get stability, magazine size and reload speed from the magazine and barrel perks.
+
+// Age-Old Bond
+dimwishlist:item=-601592879&perks=#notes:Rostopher: This is sadly just not a great weapon without very specific rolls, and your roll is not one of them. If it's your only one, might as well keep it - otherwise, it's time to run more Last Wishes and do Riven legit, yes?
+
+// Archon's Thunder
+dimwishlist:item=-1967303408&perks=#notes:Rostopher: A pretty big disappointment, this one. 360 machine guns really aren't good enough to justify using over 450 or even 900s (which are also bad FYI). There are a couple of specialised rolls that elevate it from the trash tier, but this is not one of them, so go hand in more Iron Banner tokies.
+
+// Crown-Splitter
+dimwishlist:item=2782325302&perks=3666208348,2590710093,1546637391#notes:Rostopher: PvE DPS monstrosity. Vorpal is hands down the best perk in column 4 of this weapon, so congrats on that. Tireless Blade gives you back ammo when you murder something with your super slam, which feels great and keeps you Titaning hard and Titaning fast. Jagged Edge is the icing on the cake on the very long and sharp cake.
+dimwishlist:item=2782325302&perks=2349202967,2590710093,1546637391,#notes:Rostopher: Vorpal is hands down the best perk in column 4 of this weapon, so congrats on that. Tireless Blade gives you back ammo when you murder something with your super slam, which feels great and keeps you Titaning hard and Titaning fast.
+
+// Bad Omens
+dimwishlist:item=991314988&perks=3977735242,1275731761,#notes:Rostopher: PvE pick. Bad Omens is a lovely rocket launcher that has, sadly been largely superceded by the superior Royal Entry. That said, this roll will be entirely functional at Blowing Shit Up™. [Recommended MW: Any]
+
+// Empty Vessel
+dimwishlist:item=4255586669&perks=3032599245,3300816228,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with auto-loading and blinding grenades is a minor miracle. This combination is super strong in high-end content, functioning effectively as crowd control to keep rushing adds at bay.
+dimwishlist:item=4255586669&perks=3032599245,3301904089,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with auto-loading and blinding grenades is a minor miracle. This combination is super strong in high-end content, functioning effectively as crowd control to keep rushing adds at bay.
+
+// Crown-Splitter
+dimwishlist:item=2782325302&perks=1546637391,#notes:Rostopher: You did it! You got the best perk in column 4 on this weapon! The other perks might not be the best, but Vorpal makes this weapon absolutely slap without additional help.
+
+// Empty Vessel
+dimwishlist:item=4255586669&perks=960810156,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Danger Zone is at the very least interesting. One of only a few breech GLs that can roll it, this buff to blast radius is not to be sniffed at.
+dimwishlist:item=4255586669&perks=3523296417,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Demolitionist is pretty good. Demolitionist pairs really well with breech grenade launchers, allowing you to fire, throw your grenade, then fire again, whilst kills with it will recharge your grenade, so it effectively feeds off itself. Worth keeping until you snag a better one.
+dimwishlist:item=4255586669&perks=1546637391,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Vorpal Weapon is a minor miracle. The other perks might not be the best, but it's unique in being one of only 2 special GLs that can roll it, so might be worth hanging on to until you get a better one.
 
