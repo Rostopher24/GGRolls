@@ -515,9 +515,8 @@ dimwishlist:item=2782325302&perks=2349202967,2590710093,1546637391,#notes:Rostop
 // Bad Omens
 dimwishlist:item=991314988&perks=3977735242,1275731761,#notes:Rostopher: PvE pick. Bad Omens is a lovely rocket launcher that has, sadly been largely superceded by the superior Royal Entry. That said, this roll will be entirely functional at Blowing Shit Up™. [Recommended MW: Any]
 
-// Empty Vessel
-dimwishlist:item=4255586669&perks=3032599245,3300816228,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with auto-loading and blinding grenades is a minor miracle. This combination is super strong in high-end content, functioning effectively as crowd control to keep rushing adds at bay.
-dimwishlist:item=4255586669&perks=3032599245,3301904089,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with auto-loading and blinding grenades is a minor miracle. This combination is super strong in high-end content, functioning effectively as crowd control to keep rushing adds at bay.
+// Grenade Launcher
+dimwishlist:item=153950757&perks=3301904089,3032599245,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine. Worth keeping, regardless of the other perks.
 
 // Crown-Splitter
 dimwishlist:item=2782325302&perks=1546637391,#notes:Rostopher: You did it! You got the best perk in column 4 on this weapon! The other perks might not be the best, but Vorpal makes this weapon absolutely slap without additional help.
