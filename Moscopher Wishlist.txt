@@ -420,20 +420,6 @@ dimwishlist:item=1216319404&perks=106909392,3418782618,4104185692,#notes:Rostoph
 // First In, Last Out
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:Rostopher: This is it. THE PvE roll of this weapon. Vorpal Weapon to absolutely maximise your damage against Boss/Yellow-Bar opponents, and Assault Mag to get that damage out faster. Once you've emptied the magazine, stow it and let auto-loading holster do its magic, then whip it out again for even more DPS. Whilst there is a slightly better roll with a specific barrel available, this one is still terrific, so masterwork this immediately. [Recommended MW: Range or Handling]
 
-// Any
-dimwishlist:item=-69420&perks=3643424744,1015611457,#notes:Rostopher: Overflow and Kill Clip synergise extremely poorly, as you cannot reload if the magazine is overflowed, preventing you from proccing it. Bin this, and be on the look out for a better one.
-
-// Fatebringer
-dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
-
-// Found Verdict
-dimwishlist:item=-3197270240&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
-dimwishlist:item=-3197270240&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
-
-// Found Verdict (Timelost)
-dimwishlist:item=-631439337&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
-dimwishlist:item=-631439337&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
-
 // A Fine Memorial
 dimwishlist:item=3325778512&perks=3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-Loading is great on MGs, bypassing their lengthy reload animations, and One for All is basically free on MGs. Pick magazine and barrel perks that increase magazine size, and improve recoil direction. [Recommended MW: Handling]
 dimwishlist:item=3325778512&perks=1820235745,4104185692#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. The huge base magazine size makes Subsistence work great, and Frenzy being both a damage and reload perk plays really well into that, make your bullets more efficient, and if you do need to reload, you can do it fast. Pick magazine and barrel perks that increase magazine size, and improve recoil direction. [Recommended MW: Handling]
@@ -780,6 +766,9 @@ dimwishlist:item=11&perks=1047830412,3142289711,#notes:Rostopher: PvP pick. In t
 // Age-Old Bond
 dimwishlist:item=-601592879&perks=#notes:Rostopher: This is sadly just not a great weapon without very specific rolls, and your roll is not one of them. If it's your only one, might as well keep it - otherwise, it's time to run more Last Wishes and do Riven legit, yes?
 
+// Any
+dimwishlist:item=-69420&perks=3643424744,1015611457,#notes:Rostopher: Overflow and Kill Clip synergise extremely poorly, as you cannot reload if the magazine is overflowed, preventing you from proccing it. Bin this, and be on the look out for a better one.
+
 // Apostate
 dimwishlist:item=-2164448701&perks=#notes:Rostopher: The Apostate low-key sucks booty, with mediocre base stats, a bizarre recoil direction and a deeply uninteresting perk pool. I have never once said to myself 'boy I wish I had a rapid-fire arc sniper that looks like something out of Mad Max and only has perks that are useful if I secure kills with it'. There are a couple of decent rolls, but this is not one of them, and honestly, you're better off running almost anything else in its place.
 
@@ -816,9 +805,20 @@ dimwishlist:item=-679281855&perks=1264398905,#notes:Rostopher: So, you got Celer
 // Far Future
 dimwishlist:item=-893527433&perks=#notes:Rostopher: This weapon has been largely superceded by the wildly superior Uzume RR4, which has a better perk package and can also roll as an Adept weapon. The only thing this really has going for it is its excellent aesthetic and its slightly lower zoom. There are some good rolls available on this weapon, but this is not one of them, so it can be safely punted into the bin. [Recommended MW: Stability]
 
+// Fatebringer
+dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
+
 // Fatebringer (Timelost)
 dimwishlist:item=-1216319404&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
 
 // Finite Impactor
 dimwishlist:item=-3813153080&perks=#notes:Rostopher: For whatever reason, Bungie have decreed that all arc 140 hand cannons must be kinda terrible, with the only notable exception to this rule being Nation of Beasts from Last Wish. This weapon is, indeed, not an exception, and whilst there are a couple of interesting rolls available, this is not one of them, so you can safely punt it into the trash.
+
+// Found Verdict
+dimwishlist:item=-3197270240&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
+dimwishlist:item=-3197270240&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
+
+// Found Verdict (Timelost)
+dimwishlist:item=-631439337&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
+dimwishlist:item=-631439337&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
 
