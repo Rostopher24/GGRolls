@@ -244,6 +244,10 @@ dimwishlist:item=893527433&perks=202670084,3142289711,588594999,47981717#notes:R
 dimwishlist:item=541188001&perks=4090651448,106909392,1820235745,4104185692#notes:Rostopher: PvE pick. Sidearms are terrific workhorse weapons in low and mid-tier content, doing excellent damage to make up for their relatively short range. Frenzy does a lot of work with this weapon, and pairs well with Subsistence. Tac Mag is the GOAT PvE mag, giving you flat bonuses to stability, reload speed and mag size, and Corkscrew Rifling is a nice flat buff to Handling, Stablity and Range. [Recommended MW: Any except Reload]
 dimwishlist:item=541188001&perks=1482024992,3142289711,2846385770,1546637391#notes:Rostopher: PvP pick of this weapon. This thing COOKS supers, and they will absolutely not see it coming from its 18m range. Masterwork this immediately. [Recommended MW: Any except Reload]
 
+// Fatebringer
+dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,3824105627#notes:Rostopher: The Rostopher Approved PvE God Tier Pick. Flat buffs to mag size, reload, stability, handling and range from your barrel and mag perks, and the super-fun combo of Explosive and Firefly. Just a terrific weapon. [Recommended MW: Any]
+dimwishlist:item=2171478765&perks=4090651448,106909392,3418782618,4104185692#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Tac Mag is the GOAT PvE mag perk, and Corkscrew Rifling is the best flat buff to stats with no downsides. A keeper to be sure. [Recommended MW: Any]
+
 // Friction Fire
 dimwishlist:item=1513993763&perks=4090651448,3230963543,2450788523,3425386926#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Killing Wind/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
 dimwishlist:item=1513993763&perks=4090651448,3230963543,1820235745,3425386926#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Subsistence/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
@@ -263,6 +267,11 @@ dimwishlist:item=2222560548&perks=4090651448,1140096971,1631667848,3523296417#no
 
 // Night Watch
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Rostopher: This is the curated roll of this weapon, and it only drops from the New Light campaign, or from Gambit Prime/The Reckoning back when those were in the game. Do not get rid of this; it's not only rare, it's an extremely fun weapon to use. Hip fire for maximum AC-130 vibes. [Recommended MW: Handling]
+
+// Occluded Finality
+dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:Rostopher: PvE pick. Whilst there are better PvE snipers available, this will do in a cinch for a 'whip it out and do some DPS' option. [Recommended MW: Handling]
+dimwishlist:item=852551895&perks=202670084,679225683,957782887,591790007#notes:Rostopher: PvP pick for excellent snipers. There are more forgiving rolls of this weapons, but if you are confident in your ability to snap to heads, this weapon will slap in your hands. [Recommended MW: Handling]
+dimwishlist:item=852551895&perks=202670084,679225683,957782887,47981717#notes:Rostopher: PvP sweat pick. Combine Opening Shot with the digustingly high zoom of this weapon, and you have a weapon that basically aims for you, and refunds ammo if you miss, it's wild. Snapshot negates the thunderous handling, and Full Bore/Light Mag pushes your range out to the max, magnetises your shots to heads.
 
 // Royal Entry
 dimwishlist:item=2448907086&perks=1478423395,1996142143,3300816228,1275731761#notes:Rostopher: Auto-loading Holster is always strong on rockets, and Cluster Bomb combined with Black Powder makes sure you cover the widest possible area with explosions. Combine this with the intrinsic tracking of this frame, and it's a great 'oh shit' rocket that you can whip out, blow a bunch of stuff out, then put away and continue on with your business. [Recommended MW: Blast Radius]
@@ -370,6 +379,9 @@ dimwishlist:item=3164743584&perks=839105230,1087426260,1546637391,#notes:Rostoph
 
 // Eye of Sol (Adept)
 dimwishlist:item=3637570176&perks=839105230,1087426260,1546637391,#notes:Rostopher: PvE pick. Whilst better PvE snipers are available, if you get Vorpal on this weapon, it'll do some work in PvE if you're lacking other kinetic options. There aren't any particularly great PvE perks in Column 3, so make do with what you have. [Recommended MW: Stability]
+
+// Fatebringer
+dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,1015611457#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Maximised range from the barrel and mag perks, lets you touch up to 32 meters, and Killing Wind will push that out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. [Recommended MW: Range or Stability]
 
 // A Fine Memorial
 dimwishlist:item=3325778512&perks=3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-Loading is great on MGs, bypassing their lengthy reload animations, and One for All is basically free on MGs. Pick magazine and barrel perks that increase magazine size, and improve recoil direction. [Recommended MW: Handling]
@@ -545,6 +557,9 @@ dimwishlist:item=893527433&perks=588594999,47981717#notes:Rostopher: PvP pick on
 dimwishlist:item=541188001&perks=2846385770,1546637391#notes:Rostopher: PvP pick of this weapon. This thing COOKS supers, and they will absolutely not see it coming. Whilst this isn't the absolutely min-max roll, it'll do some work - with your barrel and mag perks, try to maximise your range without sacrificing stability or handling. [Recommended MW: Any except Reload]
 dimwishlist:item=541188001&perks=1820235745,4104185692#notes:Rostopher: PvE pick. Sidearms are terrific workhorse weapons in low and mid-tier content, doing excellent damage to make up for their relatively short range. Frenzy does a lot of work with this weapon, and pairs well with Subsistence. Try to pick magazine and barrel perks that enhance your magazine size, stablity and handling, in that order. [Recommended MW: Any except Reload]
 
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=4090651448,106909392,3038247973,3824105627#notes:Rostopher: The Rostopher Approved PvE God Tier Pick. Flat buffs to mag size, reload, stability, handling and range from your barrel and mag perks, and the super-fun combo of Explosive and Firefly. Just a terrific weapon. [Recommended MW: Any]
+
 // Friction Fire
 dimwishlist:item=1513993763&perks=2450788523,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs (particularly Extraordinary Rendition), thanks to it's thunderous handling and slow reload speed, but Killing Wind/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
 dimwishlist:item=1513993763&perks=1820235745,3425386926,#notes:Rostopher: Friction Fire is largely outclassed by other kinetic SMGs, thanks to it's thunderous handling and slow reload speed, but Subsistence/Rampage works very well on it, and is worth a sniff. [Recommended MW: Any]
@@ -557,6 +572,10 @@ dimwishlist:item=3473290087&perks=588594999,957782887,#notes:Rostopher: PvP pick
 
 // Gridskipper
 dimwishlist:item=1621558458&perks=2946784966,2458213969,#notes:Rostopher: Generalist pick. Gridskipper is the dark horse of Season of the Splicer, a pulse rifle that feels good even to folk who don't like pulses. Multi-Kill Clip and Tunnel Vision feature excellent synergy, and combined with the pulse's zippy fire rate, absolutely melts combatants and guardians alike, with the aim assist boost magnetising bullets to the crit spots of your foes. [Recommended MW: Any]
+
+// Occluded Finality
+dimwishlist:item=852551895&perks=3300816228,1546637391#notes:Rostopher: PvE pick. Whilst there are better PvE snipers available, this will do in a cinch for a 'whip it out and do some DPS' option. Look for perks that extend your magazine size, or enhance the weapon's clunky handling. [Recommended MW: Handling]
+dimwishlist:item=852551895&perks=3513791699,47981717#notes:Rostopher: PvP oddball pick. Remember Revoker? Want a weapon that's nearly the same, but slightly less consistent on the ammo return? This is your guy. Combine opening shot with the digustingly high zoom and you have a weapon that basically aims for you, and refunds ammo if you miss, it's wild.
 
 // Seventh Seraph Carbine
 dimwishlist:item=1561006927&perks=1354429876,3425386926#notes:Rostopher: This perk combo on this weapon is excellent. Just make sure you're cracking heads, and you can fire this thing for days, with ramped up damage from Rampage offsetting the somewhat disappointing damage of the archetype at base. Whack on a Rampage Spec from maximum carnage. [Recommended MW: Any]
@@ -679,11 +698,9 @@ dimwishlist:item=11&perks=3300816228,2360754333#notes:Rostopher: Shotguns with A
 // Sword
 dimwishlist:item=54&perks=1749209109,3913600130#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keeping. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
 
-// Fatebringer
-dimwishlist:item=2171478765&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
-
 // Fatebringer (Timelost)
-dimwishlist:item=1216319404&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
+dimwishlist:item=1216319404&perks=4090651448,106909392,3418782618,4104185692#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Tac Mag is the GOAT PvE mag perk, and Corkscrew Rifling is the best flat buff to stats with no downsides. A keeper to be sure. [Recommended MW: Any]
+dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,1015611457#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Maximised range from the barrel and mag perks, lets you touch up to 32 meters, and Killing Wind will push that out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. [Recommended MW: Any]
 
 // Shotgun
 dimwishlist:item=11&perks=1047830412,3142289711,#notes:Rostopher: PvP pick. In terms of shotguns, Full Choke combined with Accurized will largely be responsible for how consistently you can secure kills outside of 5 meters. Better rolls may be available that further enhance your capabilities in PvP, but as a base, this guy will do work in Crucible.
@@ -729,4 +746,37 @@ dimwishlist:item=-679281855&perks=1264398905,#notes:Rostopher: So, you got Celer
 
 // Far Future
 dimwishlist:item=-893527433&perks=#notes:Rostopher: This weapon has been largely superceded by the wildly superior Uzume RR4, which has a better perk package and can also roll as an Adept weapon. The only thing this really has going for it is its excellent aesthetic and its slightly lower zoom. There are some good rolls available on this weapon, but this is not one of them, so it can be safely punted into the bin. [Recommended MW: Stability]
+
+// Fatebringer
+dimwishlist:item=2171478765&perks=3142289711,2450788523,1015611457#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Killing Wind will push the already meaty range from Accurized out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. Pick a barrel perk that pushes out your range, or enhances your stability. [Recommended MW: Range or Stability]
+dimwishlist:item=2171478765&perks=106909392,3038247973,3824105627#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Tac Mag is a great addition to the weapon, bumping up your mag size, reload speed and stability. Pick pretty much any barrel perk that you have that suits you. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities. [Recommended MW: Any]
+dimwishlist:item=2171478765&perks=106909392,3418782618,4104185692#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Tac Mag is the GOAT PvE mag perk, and just pick the barrel that best suits you. A keeper to be sure. [Recommended MW: Any]
+
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=3142289711,2450788523,1015611457,#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Killing Wind will push the already meaty range from Accurized out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. Pick a barrel perk that pushes out your range, or enhances your stability. [Recommended MW: Range or Stability]
+dimwishlist:item=1216319404&perks=106909392,3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Tac Mag is a great addition to the weapon, bumping up your mag size, reload speed and stability. Pick pretty much any barrel perk that you have that suits you. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities. [Recommended MW: Any]
+dimwishlist:item=1216319404&perks=106909392,3418782618,4104185692,#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Tac Mag is the GOAT PvE mag perk, and just pick the barrel that best suits you. A keeper to be sure. [Recommended MW: Any]
+
+// Fatebringer
+dimwishlist:item=2171478765&perks=2450788523,1015611457#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Killing Wind will push the already meaty range  out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. Pick a barrel and magazine perks that push out your range, or enhance your stability. [Recommended MW: Range or Stability]
+dimwishlist:item=2171478765&perks=3418782618,4104185692#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Just pick the barrel and mag perks that best suits you. A keeper to be sure. [Recommended MW: Any]
+
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=2450788523,1015611457#notes:Rostopher: PvP pick. 140s will always be low-key good regardless of meta, and this guy will absolutely do work. Killing Wind will push the already meaty range  out even further. Kill Clip, when procced, injects some forgiveness into your TTK, allowing you get a guaranteed kill with 1 crit and 2 body shots. Pick a barrel and magazine perks that push out your range, or enhance your stability. [Recommended MW: Range or Stability]
+dimwishlist:item=1216319404&perks=3418782618,4104185692#notes:Rostopher: PvE pick. Frenzy is terrific, function as both a reload and damage perk, and plays really well with Wewind Wounds. Just pick the barrel and mag perks that best suits you. A keeper to be sure. [Recommended MW: Any]
+
+// Any
+dimwishlist:item=-69420&perks=3824105627#notes:Rostopher: Firefly alone on any weapon is really good, given it has both a damage effect and a reload speed buff on precision kills, and also means that the weapon can spawn warmind cells with the Wrath of Rasputin mod. Whilst better specific rolls will be available, this one is worth holding on to until you find them.
+
+// Fatebringer
+dimwishlist:item=2171478765&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
+
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
+
+// Fatebringer
+dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
+
+// Fatebringer (Timelost)
+dimwishlist:item=-1216319404&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
 
