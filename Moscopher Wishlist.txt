@@ -1,20 +1,6 @@
 title:The Moscopher Wishlist
 description:A compiled list of the good, the great, the god and also the bad, from the Guardian Grill's most irritating stat whores.
 
-// Any
-dimwishlist:item=-69420&perks=3643424744,1015611457,#notes:Rostopher: Overflow and Kill Clip synergise extremely poorly, as you cannot reload if the magazine is overflowed, preventing you from proccing it. Bin this, and be on the look out for a better one.
-
-// Fatebringer
-dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
-
-// Found Verdict
-dimwishlist:item=-3197270240&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
-dimwishlist:item=-3197270240&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
-
-// Found Verdict (Timelost)
-dimwishlist:item=-631439337&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
-dimwishlist:item=-631439337&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
-
 // A Fine Memorial
 dimwishlist:item=3325778512&perks=839105230,1968497646,3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-Loading is great on MGs, bypassing their lengthy reload animations, and One for All is basically free on MGs; particularly with Armor-Piercing, which can get multiple hits with one bullet, proccing one for all faster. [Recommended MW: Handling]
 dimwishlist:item=3325778512&perks=839105230,2420895100,3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-loading is great on MGs, particularly in combination with Extended Mag, as you bypass the slow reload, and get 69 (nice) bullets in the mag. Arrowhead Brake keeps the weapon under control, and One for All is basically free to proc on MGs, for a massive damage boost. [Recommended MW: Handling]
@@ -433,6 +419,20 @@ dimwishlist:item=1216319404&perks=106909392,3418782618,4104185692,#notes:Rostoph
 
 // First In, Last Out
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:Rostopher: This is it. THE PvE roll of this weapon. Vorpal Weapon to absolutely maximise your damage against Boss/Yellow-Bar opponents, and Assault Mag to get that damage out faster. Once you've emptied the magazine, stow it and let auto-loading holster do its magic, then whip it out again for even more DPS. Whilst there is a slightly better roll with a specific barrel available, this one is still terrific, so masterwork this immediately. [Recommended MW: Range or Handling]
+
+// Any
+dimwishlist:item=-69420&perks=3643424744,1015611457,#notes:Rostopher: Overflow and Kill Clip synergise extremely poorly, as you cannot reload if the magazine is overflowed, preventing you from proccing it. Bin this, and be on the look out for a better one.
+
+// Fatebringer
+dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
+
+// Found Verdict
+dimwishlist:item=-3197270240&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
+dimwishlist:item=-3197270240&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
+
+// Found Verdict (Timelost)
+dimwishlist:item=-631439337&perks=1087426260#notes:Rostopher: Appended Mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with none of the upsides. Unless this is your only copy of the weapon, shard it and look for a better one.
+dimwishlist:item=-631439337&perks=2420895100#notes:Rostopher: Extended mag absolutely ruins this weapon, as it has the same effect on the magazine size as Tactical Mag, but with a huge debuff to reload speed. Unless this is your only copy of the weapon, shard it and look for a better one.
 
 // A Fine Memorial
 dimwishlist:item=3325778512&perks=3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-Loading is great on MGs, bypassing their lengthy reload animations, and One for All is basically free on MGs. Pick magazine and barrel perks that increase magazine size, and improve recoil direction. [Recommended MW: Handling]
