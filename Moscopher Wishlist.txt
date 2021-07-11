@@ -134,6 +134,10 @@ dimwishlist:item=1506719573&perks=4090651448,106909392,1820235745,4082225868#not
 // Commemoration
 dimwishlist:item=4230965989&perks=839105230,3142289711,1359896290,588594999#notes:Rostopher: PvP pick. 450 machine guns are the go-to for PvP, and this roll makes sure you keep on target, keeping the recoil under control, pushing the range out to pretty close to maximum, and bumping your aim assist whilst moving. [Recommended MW: Stability]
 
+// Compass Rose
+dimwishlist:item=2591111628&perks=1047830412,3142289711,706527188,957782887#notes:Rostopher: PvP pick. Not quite as good as a similarly rolled Retold Tale, but still work a grab if you like the aesthetic, and it'll more or less hit the shotgun range cap, so you'll be doing work with it. [Recommended MW: Handling or Range]
+dimwishlist:item=2591111628&perks=1332244541,791862061,1556840489,1546637391#notes:Rostopher: PvE pick. Pellet shotties aren't quite as good as slug shotties for PvE, however they can still do some work, and this one will get your damage out fast, whilst keeping your ammo topped up regardless of purple or green bricks. [Recommended MW: Handling]
+
 // Coriolis Force
 dimwishlist:item=3512349612&perks=839105230,1687452232,2779035018,4049631843#notes:Rostopher: One of the few half decent rolls on this weapon. Arrowhead brings the recoil more in line with a traditional fusion rifle, and Liquid Coils gives you the most bang for your buck. You're almost guaranteed to over-penetrate targets and proc One-for-All, so make sure you're going to town with it. [Recommended MW: Range]
 dimwishlist:item=3512349612&perks=839105230,1687452232,2779035018,2726471870#notes:Rostopher: One of the few half decent rolls on this weapon. Arrowhead brings the recoil more in line with a traditional fusion rifle, and Liquid Coils gives you the most bang for your buck. Thresh is very nice for super-based builds, particularly if you're making sure you get multiple kills per burst [Recommended MW: Range]
@@ -332,8 +336,35 @@ dimwishlist:item=3669616453&perks=981914802,3796465595,3300816228,1275731761#not
 dimwishlist:item=3669616453&perks=981914802,3796465595,3977735242,1275731761#notes:Rostopher: One of only a handful of good rolls on this weapon, congrats. You'll need to reload it manually, but this'll hit clouds of adds hard with only half-hearted aim. [Recommended MW: Blast Radius]
 dimwishlist:item=3669616453&perks=1996142143,3977735242,1275731761#notes:Rostopher: One of only a handful of good rolls on this weapon, congrats. You'll need to reload it manually, but this'll hit clouds of adds hard with only half-hearted aim. Pick a barrel perk that enhances your velocity as best you can. [Recommended MW: Blast Radius]
 
+// Horror Story
+dimwishlist:item=3829285960&perks=2405638014,3230963543,2387244414,3425386926#notes:Rostopher: This is the curated roll of this weapon, and whilst you can safely deleted (as it can be reacquired from collections), you may want to hang onto it if you're a controller user, as it'll do work in both PvE and PvP.
+
+// Ignition Code
+dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588,3523296417#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; Demolitionist allows you to yeet a grenade to reload, and handily recharges your grenade on kills too. Spike and Blinding is the ultimate combo for PvE, giving you utility between crowd control, and a pure DPS weapon. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+dimwishlist:item=304659313&perks=3032599245,3301904089,3161816588,1546637391#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; with Vorpal Weapon bumping up your damage against yellow-bar combatants. Spike and Blinding is the ultimate combo for PvE, giving you utility between crowd control, and a pure DPS weapon. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+
+// IKELOS_HC_v1.0.2
+dimwishlist:item=1200824700&perks=839105230,106909392,3096702027,1683379515#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This'll be particularly useful when hand cannons are in the champion meta, and this roll utilises a couple of oddball perks to play into that. Genesis lets you crack void shields SUPER effectively - giving you back any bullet which hits a void shield; and Disruption Break will weaken the enemy when you inevitably crack them. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=839105230,106909392,3096702027,1546637391#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This'll be particularly useful when hand cannons are in the champion meta, and this roll utilises a couple of oddball perks to play into that. Genesis lets you crack void shields SUPER effectively - giving you back any bullet which hits a void shield. Vorpal bumps up the weapons somewhat mediocre damage output against champions, and Tac Mag and Arrowhead keeps the weapon under control and in play. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=839105230,106909392,1820235745,3425386926#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This one won't perform particularly well in high end content, but in low- and mid-tier content, you'll be laughing as you never have to reload. Subsistence returns bullets to the magazine on kill, Rampage ramps up you damage on kill, combine the two and you're firing forever. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=839105230,106909392,3400784728,3425386926#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. Whilst this one isn't particularly brilliant for high-end content (though it'll still perform well!), it'll do well in low- and mid-tier content. Triple Tap rewards successive crits with a round returned to the mag, and Rampage ramps up your damage output as you secure kills. [Recommended MW: Reload]
+
 // IKELOS_SMG_v1.0.2
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1631667848,3523296417#notes:Rostopher: PvE pick. The 'Gravy Roll', this weapon has excellent utility, with not 1, not 2, but 3 different ways to reload it (manual, melee kill, throw grenade). Seraph Rounds do bonus stagger damage against combatants, and Corkscrew Rifling is a nice flat buff to 3 stats. [Recommended MW: Range]
+
+// IKELOS_SR_v1.0.2
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989#notes:Rostopher: Whilst 140 sniper rifle are a bit of a mediocre pick in PvE, this weapon has the added benefit of contributing towards your warmind cell spawning endeavours. This is an OG 'god roll' that, in truth, only really functions against bosses with either very large or very stationary crit spots. But if you can land every critc, you can fire up to 11 rounds before needed to reload, and the final 5 that you fire will cycle the high-impact reserves buff, giving you a surprisingly impressive damage output for a single mag. [Recommended MW: Reload or Stability]
+dimwishlist:item=1253087083&perks=106909392,3400784728,2551157718#notes:Rostopher: Whilst 140 sniper rifle are a bit of a mediocre pick in PvE, this weapon has the added benefit of contributing towards your warmind cell spawning endeavours. Whilst this doesn't have quite as high damage output per magazine as the 4TTC/HIR roll, it arguably has better utility, featuring a more forgiving perk in Triple Tap, and Box Breathing allows you to opt for a single high-damage shot whilst on the move. [Recommended MW: Reload or Stability]
+
+// Imperial Needle
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4104185692#notes:Rostopher: Uniquely among bows, Imperial Needle can roll Frenzy, which can combine with Archer's Tempo for you to wildly fling arrows across the map at an astonishing rate. This is a 4/4 god roll, so hang onto it - you won't likely see a better roll than this. [Recommended MW: Accuracy or Draw Time]
+
+// Interference VI
+dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! This'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then stow it to reload, rinse and repeat. [Recommended MW: Velocity or Handling]
+
+// Multimach CCX
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Combined with accurised rounds, this can touch up to 20 metres before damage drop-off. Killing Wind pushes that out even further when you secure a kill, and Kill Clip, when active, drops your TTK to a surreal 0.47 seconds, needing only 8 crits. An absolute gem of a PvP SMG, hold on to this one; it'll even do work in PvE if you let it. [Recommended MW: Range, Stability or Handling]
+dimwishlist:item=3717177717&perks=663495154,106909392,2450788523,4049631843#notes:Rostopher: PvE pick. New Recluse? You may well have it in your hands here. Just tag three opponents, finish one of them, and let the spree commence.  [Recommended MW: Range, Stability or Handling]
 
 // Night Watch
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Rostopher: This is the curated roll of this weapon, and it only drops from the New Light campaign, or from Gambit Prime/The Reckoning back when those were in the game. Do not get rid of this; it's not only rare, it's an extremely fun weapon to use. Hip fire for maximum AC-130 vibes. [Recommended MW: Handling]
@@ -342,6 +373,10 @@ dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#no
 dimwishlist:item=852551895&perks=839105230,2420895100,3300816228,1546637391#notes:Rostopher: PvE pick. Whilst there are better PvE snipers available, this will do in a cinch for a 'whip it out and do some DPS' option. [Recommended MW: Handling]
 dimwishlist:item=852551895&perks=202670084,679225683,957782887,591790007#notes:Rostopher: PvP pick for excellent snipers. There are more forgiving rolls of this weapons, but if you are confident in your ability to snap to heads, this weapon will slap in your hands. [Recommended MW: Handling]
 dimwishlist:item=852551895&perks=202670084,679225683,957782887,47981717#notes:Rostopher: PvP sweat pick. Combine Opening Shot with the digustingly high zoom of this weapon, and you have a weapon that basically aims for you, and refunds ammo if you miss, it's wild. Snapshot negates the thunderous handling, and Full Bore/Light Mag pushes your range out to the max, magnetises your shots to heads.
+
+// Orewing's Maul
+dimwishlist:item=2108920981&perks=3032599245,2869569095,3300816228,3301904089#notes:Rostopher: Congrats! You have one of only two rolls on this weapon that are on par with a decent Truthteller. If you don't have one of those, keep this one! [Recommended MW: Velocity, Reload or Handling]
+dimwishlist:item=2108920981&perks=3032599245,706527188,3300816228,3301904089#notes:Rostopher: Congrats! You have one of only two rolls on this weapon that are on par with a decent Truthteller. If you don't have one of those, keep this one! [Recommended MW: Velocity, Reload or Handling]
 
 // Royal Entry
 dimwishlist:item=2448907086&perks=1478423395,1996142143,3300816228,1275731761#notes:Rostopher: Auto-loading Holster is always strong on rockets, and Cluster Bomb combined with Black Powder makes sure you cover the widest possible area with explosions. Combine this with the intrinsic tracking of this frame, and it's a great 'oh shit' rocket that you can whip out, blow a bunch of stuff out, then put away and continue on with your business. [Recommended MW: Blast Radius]
@@ -480,6 +515,22 @@ dimwishlist:item=1197486957&perks=4090651448,3142289711,2450788523#notes:Rostoph
 // Hoosegow
 dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:Rostopher: One of only a handful of good rolls on this weapon, congrats. You'll need to aim carefully, but as long as you can hit your target, you can stow it, let it reload whilst firing another weapon, then fire it again. Pick a barrel perk that enhances your velocity as best you can. [Recommended MW: Blast Radius]
 dimwishlist:item=3669616453&perks=3796465595,3977735242,1275731761#notes:Rostopher: One of only a handful of good rolls on this weapon, congrats. You'll need to reload it manually, but this'll hit clouds of adds hard with only half-hearted aim. Pick a barrel perk that enhances your velocity as best you can. [Recommended MW: Blast Radius]
+
+// Ignition Code
+dimwishlist:item=304659313&perks=3032599245,3161816588,3523296417#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; Demolitionist allows you to yeet a grenade to reload, and handily recharges your grenade on kills too. Blinding Grenades is extremely strong in PvE, particularly in higher-end activities where you need to relieve pressure on you and your fireteam. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; with Vorpal Weapon bumping up your damage against yellow-bar combatants. PvE god tier pick. Blinding Grenades is extremely strong in PvE, particularly in higher-end activities where you need to relieve pressure on you and your fireteam. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+dimwishlist:item=304659313&perks=3301904089,3161816588,3523296417#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; Demolitionist allows you to yeet a grenade to reload, and handily recharges your grenade on kills too. Spike bumps up your damage on direct hits, creating a viable sustained DPS weapon. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:Rostopher: PvE god tier pick. Slideshot gives you the option of reloading manually, or pulling a cheeky slide to do so; with Vorpal Weapon bumping up your damage against yellow-bar combatants. PvE god tier pick. Spike bumps up your damage on direct hits, creating a viable sustained DPS weapon. Use Quick Launch if you have it, otherwise just look for the barrel perk that maximises velocity. [Recommended MW: Velocity, Blast Radius or Handling]
+
+// IKELOS_SR_v1.0.2
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:Rostopher: Whilst 140 sniper rifle are a bit of a mediocre pick in PvE, this weapon has the added benefit of contributing towards your warmind cell spawning endeavours. This is an OG 'god roll' that, in truth, only really functions against bosses with either very large or very stationary crit spots. But if you can land every critc, you can fire up to 11 rounds before needed to reload, and the final 5 that you fire will cycle the high-impact reserves buff, giving you a surprisingly impressive damage output for a single mag. This could have a better magazine (namely Tactical Mag), but Appended Mag will do the job. [Recommended MW: Reload or Stability]
+
+// Interference VI
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! This'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then stow it to reload, rinse and repeat. [Recommended MW: Velocity or Handling]
+
+// Multimach CCX
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Combined with accurised rounds, this can touch up to 20 metres before damage drop-off. Killing Wind pushes that out even further when you secure a kill. Your final perk isn't the absolute best, but this roll will still do work in PvP - but be on the look out for a similar one with Kill Clip. [Recommended MW: Range, Stability or Handling]
+dimwishlist:item=3717177717&perks=6634951542450788523,1015611457#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Killing Wind pushes that out even further when you secure a kill, and Kill Clip drops your TTK down to an eye-watering 0.47 seconds with all headshots. Pick whichever mag perk pushes out your range the most, and failing that, go for stability or reload speed. A gem of a PvP SMG, and it'll even do work in PvE if you want it to. [Recommended MW: Range, Stability or Handling]
 
 // A Fine Memorial
 dimwishlist:item=3325778512&perks=3300816228,4049631843#notes:Rostopher: Finally, a 450 RPM solar MG that doesn't look ridiculous! Or not. Anyway, this is a great PvE pick. Auto-Loading is great on MGs, bypassing their lengthy reload animations, and One for All is basically free on MGs. Pick magazine and barrel perks that increase magazine size, and improve recoil direction. [Recommended MW: Handling]
@@ -707,6 +758,26 @@ dimwishlist:item=1197486957&perks=4267945040,3592538738#notes:Rostopher: PvE pic
 // Hollow Words
 dimwishlist:item=607191995&perks=1556840489,1546637391#notes:Rostopher: PvE pick. Whilst Hollow Words is not quite as good as the similar Plug One, it does have some small advantages over the nightfall weapon, such as its ability to roll Vorpal Weapon, which hey look! You got! Lead from Gold ensures you'll pretty much always have ammo, and Liquid Coils makes it hit nearly as hard as High Impact Frames. Pretty much any barrel and battery perks will do, so pick the ones that have the least detriment to your weapon's stats. [Recommended MW: Any except Charge Time]
 
+// IKELOS_HC_v1.0.2
+dimwishlist:item=1200824700&perks=3096702027,1683379515#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This'll be particularly useful when hand cannons are in the champion meta, and this roll utilises a couple of oddball perks to play into that. Genesis lets you crack void shields SUPER effectively - giving you back any bullet which hits a void shield; and Disruption Break will weaken the enemy when you inevitably crack them. Select mag and barrel perks that enhance your handling, magazine size and stability. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=3096702027,1546637391#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This'll be particularly useful when hand cannons are in the champion meta, and this roll utilises a couple of oddball perks to play into that. Genesis lets you crack void shields SUPER effectively - giving you back any bullet which hits a void shield. Vorpal bumps up the weapons somewhat mediocre damage output against champions. Select barrel and mag perks that increase mag size, and enhance stability, recoil direction and handling. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=1820235745,3425386926#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. This one won't perform particularly well in high end content, but in low- and mid-tier content, you'll be laughing as you never have to reload. Subsistence returns bullets to the magazine on kill, Rampage ramps up you damage on kill, combine the two and you're firing forever. Select mag and barrel perks that enhance your magazine size, then handling, stability and reload speed. [Recommended MW: Reload]
+dimwishlist:item=1200824700&perks=3400784728,3425386926#notes:Rostopher: Whilst this hand cannon is largely outclassed by the Seventh Seraph Revolver both in terms of perk choice and base stats, it can serve in a pinch as both a warmind cell spawner and void shield cracker. Whilst this one isn't particularly brilliant for high-end content (though it'll still perform well!), it'll do well in low- and mid-tier content. Triple Tap rewards successive crits with a round returned to the mag, and Rampage ramps up your damage output as you secure kills. Select barrel and mag perks that enhance your reload speed, magazine size, stability and recoil direction. [Recommended MW: Reload]
+
+// IKELOS_SG_v1.0.2
+dimwishlist:item=1096206669&perks=106909392,2360754333#notes:Rostopher: The Ikelos shottie had a long, glorious time in the sun, and was taken from us so soon. But behold it has returned! And it is… fine. These two perks will make an entirely servicable weapon, there's no bad pick in column 3, partially because there's no GOOD pick either, so make do with what you have there. Barrel-wise, try to extend your range a bit, or enhance your stability and handling [Recommended MW: Any]
+dimwishlist:item=1096206669&perks=106909392,1546637391#notes:Rostopher: The Ikelos shottie had a long, glorious time in the sun, and was taken from us so soon. But behold it has returned! And it is… fine. These two perks will make an entirely servicable weapon, there's no bad pick in column 3, partially because there's no GOOD pick either, so make do with what you have there. Barrel-wise, try to extend your range a bit, or enhance your stability and handling [Recommended MW: Any]
+
+// Imperial Needle
+dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Rostopher: Uniquely among bows, Imperial Needle can roll Frenzy, which can combine with Archer's Tempo for you to wildly fling arrows across the map at an astonishing rate. Look for the string and arrow perks that enhance your draw speed and accuracy - don't worry if the stability takes a hit. [Recommended MW: Accuracy or Draw Time]
+
+// Interference VI
+dimwishlist:item=2257180473&perks=33019040892888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! There's no bad perk in column 3 on this weapon, so use what you have, and this'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then reload and fire again until you run out of ammo, or the thing is dead. [Recommended MW: Velocity or Handling]
+
+// Multimach CCX
+dimwishlist:item=3717177717&perks=6634951542450788523#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Killing Wind pushes that out even further when you secure a kill, although your final perk does leave a little to be desired. Still, this'll do work. Pick whichever mag perk pushes out your range the most, and failing that, go for stability or reload speed. [Recommended MW: Range, Stability or Handling]
+dimwishlist:item=3717177717&perks=2450788523,4049631843#notes:Rostopher: PvE pick. New Recluse? You may well have it in your hands here. Just tag three opponents, finish one of them, and let the spree commence. Pick the scope that has the highest zoom (preferably the Model 8 RED), and try to enhance your stability and magazine size with your magazine perk. [Recommended MW: Range, Stability or Handling]
+
 // Occluded Finality
 dimwishlist:item=852551895&perks=3300816228,1546637391#notes:Rostopher: PvE pick. Whilst there are better PvE snipers available, this will do in a cinch for a 'whip it out and do some DPS' option. Look for perks that extend your magazine size, or enhance the weapon's clunky handling. [Recommended MW: Handling]
 dimwishlist:item=852551895&perks=3513791699,47981717#notes:Rostopher: PvP oddball pick. Remember Revoker? Want a weapon that's nearly the same, but slightly less consistent on the ammo return? This is your guy. Combine opening shot with the digustingly high zoom and you have a weapon that basically aims for you, and refunds ammo if you miss, it's wild.
@@ -720,43 +791,6 @@ dimwishlist:item=2492081469&perks=2450788523,4049631843,#notes:Rostopher: The Nu
 
 // The Vision
 dimwishlist:item=2414141462&perks=2450788523,1015611457,#notes:Rostopher: Generalist pick. These burst sidearms are excellent in both PvE and PvP, with an extraordinary damage output within their range. Killing Wind will push that range out even further, and Kill Clip pushes your PvP TTK down to a ludicrous 0.43 seconds, and ramping up your damage in PvE. Even without min/maxing the barrel and sights, this will be a monster. [Recommended MW: Any]
-
-// Dream Breaker
-dimwishlist:item=2931957300&perks=4104185692#notes:Rostopher: PvE pick. Dream Breaker is the only Fusion that can currently roll Frenzy, which is just a fantastic perk on anything it rolls on, being a combined reload and damage perk. This opens up your Column 3 for a utility perk instead of a reload perk, which Dream Breaker does have a wide selection of, so have a read of what your Column 3 does, and see what you can do with it. Pick barrel and battery perks that enhance your stability, handling and magazine size, in that order.
-
-// Escape Velocity
-dimwishlist:item=1786797708&perks=3643424744,#notes:Rostopher: Overflow is great on 900 RPM SMGs, and whilst better rolls are very much available of this weapon, the perk alone will carry it a long way. Pick the mag and scopes that best buff the stats to your liking, and be on the look out for a roll with Overflow/Vorpal. [Recommended MW: Stability]
-dimwishlist:item=1786797708&perks=1546637391#notes:Rostopher: God-tier roll of this weapon for general use. 900 SMGs tend to cook adds fairly quickly without a damage perk, and Vorpal will buff your efficacy against yellow bars something fierce. Pick the scope and mag perks that provides the best bonuses - ideally buffing magazine size and stability, and make do with your column 3 perk until you find one with Overflow. [Recommended MW: Stability]
-
-// Eternal Blazon
-dimwishlist:item=3514096004&perks=3643424744,#notes:Rostopher: This weapon is fairly unique among scouts, in that it can have Overflow on it! Seeing as you've got this one, keep it for now, but be on the look out for more potentially useful rolls.
-dimwishlist:item=3514096004&perks=1683379515#notes:Rostopher: S-tier PvE shield-cracker, this - particularly in combination with Anti-Barrier Scout Rifle should it be on the artefact. Disruption Break renders targets vulnerable to kinetic damage, which benefits both you and your team, which makes it a great nightfall weapon. Pick the scope you hate the least, and be on the look out for a similar roll with Armor-Piercing Rounds and Overflow. [Recommended MW: Handling]
-
-// Exile's Curse
-dimwishlist:item=679281855&perks=1754714824,#notes:Rostopher: Kickstart is fairly unique - only able to roll on a handful of fusions, and is an enormous amount of fun to use. Whilst the rest of the perks here aren't fully optimal, you may find some fun with this weapon in both PvE and PvP.
-
-// Exile's Curse (Adept)
-dimwishlist:item=276080079&perks=1754714824,#notes:Rostopher: Kickstart is fairly unique - only able to roll on a handful of fusions, and is an enormous amount of fun to use. Whilst the rest of the perks here aren't fully optimal, you may find some fun with this weapon in both PvE and PvP.
-
-// Grenade Launcher
-dimwishlist:item=153950757&perks=3301904089,3032599245,3300816228,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine. Auto-Loading Holster in combination with those two? Absolutely, 100% keep this weapon, even if the perk in column 4 is a bit shit. The barrel perks barely matter, but try to snag one that increases velocity or handling, and you WILL make do with whatever it is you have in column 4.
-dimwishlist:item=153950757&perks=3301904089,3032599245,2869569095,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine. Field Prep, whilst not quite as useful as Auto-Loading Holster, is still excellent, allowing you to crouch to get a maxed-out reload speed. The barrel perks barely matter, but try to snag one that increases velocity or handling, and you WILL make do with whatever it is you have in column 4.
-
-// Hawkmoon
-dimwishlist:item=3856705927&perks=2846385770#notes:Rostopher: PvP pick. Rangefinder on Hawkmoon turns it into an insanely sticky hand cannon in crucible. You'll land shots you absolutely do not expect to - just don't get to used to the work it's doing for you! The barrel and grip perks could be better, but in truth, this will perform perfectly thanks to Hawkmoon's ridiculous base stats.
-dimwishlist:item=3856705927&perks=2450788523#notes:Rostopher: PvE pick. Hawkmoon's random perks don't have much in the way of amazing PvE perks, but Killing Wind is probably the closest. The barrel and grip perks could be better, but in truth, this will perform perfectly thanks to Hawkmoon's ridiculous base stats.
-
-// Heretic
-dimwishlist:item=3067821200&perks=3927722942#notes:Rostopher: PvE pick. Lasting Impression is both hilarious AND powerful, a rare combination, bumping up your damage - albeit on a small delay - and increasing the size of the blast radius. Direct hit bosses, or shoot it on the floor in front of an onrushing wave of adds, it's up to you. Better perk options are available in column 3, but this is worth holding on to until you have a better roll. A lot of people will tell you that Impact Casing is essential, but in real terms, it's only increasing your damage output by ~2%. If you have it, use it, but otherwise just pick whichever launcher and mag perks enhance velocity and blast radius. [Recommended MW: Reload]
-
-// Hezen Vengeance
-dimwishlist:item=4050645223&perks=3643424744#notes:Rostopher: Hezen Vengeance is unique among rockets in its ability to roll Overflow, and whilst there are better rolls available with the perk, this is worth holding on to until you get one.
-
-// High Albedo
-dimwishlist:item=1197486957&perks=2450788523#notes:Rostopher: PvP pick. Burst sidearms are hugely underrated in PvP, with a ludicrously low BODY SHOT TTK that puts most other weapons to shame. In particular, this one's ability to roll Killing Wind makes it incredibly dangerous. Almost any perk in Column 4 will work well in Crucible, so keep what you have. It'll also be no slouch in PvE, making this a great generalist roll. Pick barrel and magazine perks that enhance its stability and range. [Recommended MW: Stability]
-
-// Hollow Words
-dimwishlist:item=607191995&perks=1546637391#notes:Rostopher: Generalist pick. Whilst Hollow Words is not quite as good as the similar Plug One, it does have some small advantages over the nightfall weapon, such as its ability to roll Vorpal Weapon, which hey look! You got! Whilst better specific rolls are available, you may wish to hold on to this one for now until you secure one. [Recommended MW: Any except Charge Time]
 
 // Archon's Thunder
 dimwishlist:item=1967303408&perks=3425386926,#notes:Rostopher: Rampage is literally the only useful perk on column 4 of this weapon, and since you have it, this is probably worth keeping despite its other perks. Try to get stability, magazine size and reload speed from the magazine and barrel perks.
@@ -813,15 +847,55 @@ dimwishlist:item=981718087&perks=3300816228,#notes:Rostopher: Auto-Loading Holst
 // Distant Tumulus
 dimwishlist:item=2807687156&perks=1771339417,#notes:Rostopher: This weapon exists in a nether where it serves no purpose, given that the Ikelos Sniper exists. However, it is one of only a handful of weapons that can roll Firing Line, so is worth a look for that. [Recommended MW: Any]
 
+// Dream Breaker
+dimwishlist:item=2931957300&perks=4104185692#notes:Rostopher: PvE pick. Dream Breaker is the only Fusion that can currently roll Frenzy, which is just a fantastic perk on anything it rolls on, being a combined reload and damage perk. This opens up your Column 3 for a utility perk instead of a reload perk, which Dream Breaker does have a wide selection of, so have a read of what your Column 3 does, and see what you can do with it. Pick barrel and battery perks that enhance your stability, handling and magazine size, in that order.
+
 // Empty Vessel
 dimwishlist:item=4255586669&perks=960810156,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Danger Zone is at the very least interesting. One of only a few breech GLs that can roll it, this buff to blast radius is not to be sniffed at.
 dimwishlist:item=4255586669&perks=3523296417,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Demolitionist is pretty good. Demolitionist pairs really well with breech grenade launchers, allowing you to fire, throw your grenade, then fire again, whilst kills with it will recharge your grenade, so it effectively feeds off itself. Worth keeping until you snag a better one.
 dimwishlist:item=4255586669&perks=1546637391,#notes:Rostopher: Given the expansive perk pool on this weapon, the fact that you've snagged one with Vorpal Weapon is a minor miracle. The other perks might not be the best, but it's unique in being one of only 2 special GLs that can roll it, so might be worth hanging on to until you get a better one.
 
+// Escape Velocity
+dimwishlist:item=1786797708&perks=3643424744,#notes:Rostopher: Overflow is great on 900 RPM SMGs, and whilst better rolls are very much available of this weapon, the perk alone will carry it a long way. Pick the mag and scopes that best buff the stats to your liking, and be on the look out for a roll with Overflow/Vorpal. [Recommended MW: Stability]
+dimwishlist:item=1786797708&perks=1546637391#notes:Rostopher: God-tier roll of this weapon for general use. 900 SMGs tend to cook adds fairly quickly without a damage perk, and Vorpal will buff your efficacy against yellow bars something fierce. Pick the scope and mag perks that provides the best bonuses - ideally buffing magazine size and stability, and make do with your column 3 perk until you find one with Overflow. [Recommended MW: Stability]
+
+// Eternal Blazon
+dimwishlist:item=3514096004&perks=3643424744,#notes:Rostopher: This weapon is fairly unique among scouts, in that it can have Overflow on it! Seeing as you've got this one, keep it for now, but be on the look out for more potentially useful rolls.
+dimwishlist:item=3514096004&perks=1683379515#notes:Rostopher: S-tier PvE shield-cracker, this - particularly in combination with Anti-Barrier Scout Rifle should it be on the artefact. Disruption Break renders targets vulnerable to kinetic damage, which benefits both you and your team, which makes it a great nightfall weapon. Pick the scope you hate the least, and be on the look out for a similar roll with Armor-Piercing Rounds and Overflow. [Recommended MW: Handling]
+
+// Exile's Curse
+dimwishlist:item=679281855&perks=1754714824,#notes:Rostopher: Kickstart is fairly unique - only able to roll on a handful of fusions, and is an enormous amount of fun to use. Whilst the rest of the perks here aren't fully optimal, you may find some fun with this weapon in both PvE and PvP.
+
+// Exile's Curse (Adept)
+dimwishlist:item=276080079&perks=1754714824,#notes:Rostopher: Kickstart is fairly unique - only able to roll on a handful of fusions, and is an enormous amount of fun to use. Whilst the rest of the perks here aren't fully optimal, you may find some fun with this weapon in both PvE and PvP.
+
 // Frozen Orbit
 dimwishlist:item=3473290087&perks=2551157718,#notes:Rostopher: PvE pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and Box Breathing is a nice consolation prize if you couldn't get Vorpal [Recommended MW: Any]
 dimwishlist:item=3473290087&perks=957782887,#notes:Rostopher: PvP pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and Snapshot negates a lot of the downsizes of running an Aggressive Frame sniper. [Recommended MW: Any]
 dimwishlist:item=3473290087&perks=1546637391,#notes:Rostopher: PvE pick. Given the wild perk pool on this weapon, you sometimes have to take what you're given, and this is one of only a small number of snipers that can roll Vorpal, so this is worth keeping. [Recommended MW: Any]
+
+// Grenade Launcher
+dimwishlist:item=153950757&perks=3301904089,3032599245,3300816228,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine. Auto-Loading Holster in combination with those two? Absolutely, 100% keep this weapon, even if your unmarked perk is a bit shit. The barrel perks barely matter, but try to snag Quick Launch if you have it, or one that increases velocity or handling.
+dimwishlist:item=153950757&perks=3301904089,3032599245,2869569095,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine. Field Prep, whilst not quite as useful as Auto-Loading Holster, is still excellent, allowing you to crouch to get a maxed-out reload speed. The barrel perks barely matter, but try to snag one that increases velocity or handling. You'll need to just make do with whatever your unmarked perks are until you find a better roll.
+
+// Hawkmoon
+dimwishlist:item=3856705927&perks=2846385770#notes:Rostopher: PvP pick. Rangefinder on Hawkmoon turns it into an insanely sticky hand cannon in crucible. You'll land shots you absolutely do not expect to - just don't get to used to the work it's doing for you! The barrel and grip perks could be better, but in truth, this will perform perfectly thanks to Hawkmoon's ridiculous base stats.
+dimwishlist:item=3856705927&perks=2450788523#notes:Rostopher: PvE pick. Hawkmoon's random perks don't have much in the way of amazing PvE perks, but Killing Wind is probably the closest. The barrel and grip perks could be better, but in truth, this will perform perfectly thanks to Hawkmoon's ridiculous base stats.
+
+// Heretic
+dimwishlist:item=3067821200&perks=3927722942#notes:Rostopher: PvE pick. Lasting Impression is both hilarious AND powerful, a rare combination, bumping up your damage - albeit on a small delay - and increasing the size of the blast radius. Direct hit bosses, or shoot it on the floor in front of an onrushing wave of adds, it's up to you. Better perk options are available in column 3, but this is worth holding on to until you have a better roll. A lot of people will tell you that Impact Casing is essential, but in real terms, it's only increasing your damage output by ~2%. If you have it, use it, but otherwise just pick whichever launcher and mag perks enhance velocity and blast radius. [Recommended MW: Reload]
+
+// Hezen Vengeance
+dimwishlist:item=4050645223&perks=3643424744#notes:Rostopher: Hezen Vengeance is unique among rockets in its ability to roll Overflow, and whilst there are better rolls available with the perk, this is worth holding on to until you get one.
+
+// High Albedo
+dimwishlist:item=1197486957&perks=2450788523#notes:Rostopher: PvP pick. Burst sidearms are hugely underrated in PvP, with a ludicrously low BODY SHOT TTK that puts most other weapons to shame. In particular, this one's ability to roll Killing Wind makes it incredibly dangerous. Almost any perk in Column 4 will work well in Crucible, so keep what you have. It'll also be no slouch in PvE, making this a great generalist roll. Pick barrel and magazine perks that enhance its stability and range. [Recommended MW: Stability]
+
+// Hollow Words
+dimwishlist:item=607191995&perks=1546637391#notes:Rostopher: Generalist pick. Whilst Hollow Words is not quite as good as the similar Plug One, it does have some small advantages over the nightfall weapon, such as its ability to roll Vorpal Weapon, which hey look! You got! Whilst better specific rolls are available, you may wish to hold on to this one for now until you secure one. [Recommended MW: Any except Charge Time]
+
+// Ignition Code
+dimwishlist:item=304659313&perks=3161816588#notes:Rostopher: Ignition Code is unique among breech GLs in its ability to roll Slideshot, allowing you to slide to reload instead of going through the lengthy reload animation. Whilst the other perks here aren't wildly brilliant, this will be fun to hang on to untill you find a better roll.
 
 // Any
 dimwishlist:item=-69420&perks=3824105627#notes:Rostopher: Firefly alone on any weapon is really good, given it has both a damage effect and a reload speed buff on precision kills, and also means that the weapon can spawn warmind cells if you can secure kills with the Firefly explosion, thanks to the Wrath of Rasputin mod. Whilst better specific rolls will be available, this one is worth holding on to until you find them.
@@ -830,6 +904,12 @@ dimwishlist:item=-69420&perks=3643424744,4104185692#notes:Rostopher: Overflow co
 dimwishlist:item=-69420&perks=3643424744,3425386926#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,3708227201#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
 dimwishlist:item=-69420&perks=3643424744,4082225868#notes:Rostopher: Overflow combined with any damage perk that doesn't require you to reload is just terrific, as if you're smart, you can keep the uptime for the damage perk insanely high. You want to try to get magazine perks that enhance your magazine capacity (Appended, Extended and Tactical all work great), and pretty much any barrel perks. [Recommended MW: Any]
+
+// Fatebringer
+dimwishlist:item=2171478765&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
+
+// Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
 
 // Grenade Launcher
 dimwishlist:item=153950757&perks=3301904089,3032599245,#notes:Rostopher: Having both spike and blinding grenades on a breech grenade launcher is one of the best possible combinations, giving you the choice between a utility weapon and a DPS machine, even if you do have to reload it manually. Worth keeping, regardless of the other perks.
@@ -844,19 +924,11 @@ dimwishlist:item=6&perks=247725512,1015611457#notes:Rostopher: Reload speed perk
 dimwishlist:item=6&perks=247725512,2458213969#notes:Rostopher: Reload speed perk + reload activated damage perk = profit. [Recommended MW: Any]
 
 // Shotgun
+dimwishlist:item=11&perks=1047830412,3142289711,#notes:Rostopher: PvP pick. In terms of shotguns, Full Choke combined with Accurized will largely be responsible for how consistently you can secure kills outside of 5 meters. Better rolls may be available that further enhance your capabilities in PvP, but as a base, this guy will do work in Crucible.
 dimwishlist:item=11&perks=3300816228,2360754333#notes:Rostopher: Shotguns with Auto-Loading and Trench are, generally, quite good in PvE. Pull it out, punch a guy, then pump out three big-damage shots. Holster it and go back to your day. You want magazine perks that enhance magazine size; or Assault Mag for faster damage output. The only barrel perk you want to avoid with this roll is Full Choke, which reduces precision damage. [Recommended MW: Any]
 
 // Sword
 dimwishlist:item=54&perks=1749209109,3913600130#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keeping. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
-
-// Fatebringer
-dimwishlist:item=2171478765&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
-
-// Fatebringer (Timelost)
-dimwishlist:item=1216319404&perks=3038247973,3824105627,#notes:Rostopher: Explosive/Firefly is the OG Destiny 1 roll of this weapon, and still holds up very well in Destiny 2's sandbox, particularly with the improvements made to Firefly. Whilst it's not incredible in high level endgame content, it'll be a great workhorse hand cannon in low and mid-tier activities.
-
-// Shotgun
-dimwishlist:item=11&perks=1047830412,3142289711,#notes:Rostopher: PvP pick. In terms of shotguns, Full Choke combined with Accurized will largely be responsible for how consistently you can secure kills outside of 5 meters. Better rolls may be available that further enhance your capabilities in PvP, but as a base, this guy will do work in Crucible.
 
 // Age-Old Bond
 dimwishlist:item=-601592879&perks=#notes:Rostopher: This is sadly just not a great weapon without very specific rolls, and your roll is not one of them. If it's your only one, might as well keep it - otherwise, it's time to run more Last Wishes and do Riven legit, yes?
@@ -929,4 +1001,10 @@ dimwishlist:item=-2857348871&perks=#notes:Rostopher: Honor's Edge is a deeply un
 
 // Hoosegow
 dimwishlist:item=-3669616453&perks=#notes:Rostopher: Hoosegow is deeply inferior, in both available perks, utility and base stats to Sleepless, Shining Sphere and Subzero Salvo. There are a couple of very specific rolls that'll do work, but this is not one of them, so you can safely shard it.
+
+// Horror Story
+dimwishlist:item=-3829285960&perks=#notes:Rostopher: Horror Story has almost nothing going for it when randomly rolled, with a poor selection of perks, and base stats that are easily outclassed by the Braytech Werewolf, which came from the same event. If you want to use this weapon, pull the curated roll from your collection.
+
+// Orewing's Maul
+dimwishlist:item=-2108920981&perks=#notes:Rostopher: A poor man's Truthteller. Whilst there are some entirely servicable rolls of this weapon, this is not one of them, and it's not only easier, but better to hunt down a good Truthteller, which has a wildly superior perk pool.
 
