@@ -362,6 +362,21 @@ dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,4104185692#note
 // Interference VI
 dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! This'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then stow it to reload, rinse and repeat. [Recommended MW: Velocity or Handling]
 
+// Jian 7 Rifle
+dimwishlist:item=1162247618&perks=360593481,1968497646,1683379515,3425386926#notes:Rostopher: PvE pick. This weapon is unique in that it can roll Disruption Break in Column 3, where normally it lands in column 4, meaning it can be paired with Rampage to serve a dual role of shield cracking and red-bar slaying. Armor-Piercing makes it hit shields harder, and the SRO-52 is the best all-rounder scope, featuring high zoom but retaining visibility for situation awareness. [Recommended MW: Stability or Handling]
+dimwishlist:item=1162247618&perks=360593481,1561002382,2387244414,3425386926#notes:Rostopher: PvP pick. Pulse Rifles will almost always be an at least half-decent pick in PvP, being both range-y and easy to use. This one in particular can two-burst someone with just one stack of Rampage, and Zen Moment keeps your bursts on target, assuming you land the first shot. High-Cal ups your already considerable inflicted flinch, and the SRO-52 is the best utility scope, featuring decent zoom without sacrificing situational awareness. [Recommended MW: Stability or Handling]
+
+// Last Perdition
+dimwishlist:item=188882152&perks=360593481,3142289711,2846385770,1015611457#notes:Rostopher: Rostopher's personal PvP roll. This thing slaps at up to 50 metres, and with Kill Clip active, you can 2-burst people with 3 crits and 2 body shots, it's wild. [Recommended MW: Stability or Handling]
+
+// Lonesome
+dimwishlist:item=2199171672&perks=1840239774,2420895100,1631667848,4082225868#notes:Rostopher: PvE oddball pick. Whilst extended mag will make this weapon's already slow reload even slower, you can now bypass it entirely with Grave Robber, and also proc a huge damage bonus at the same time. Not an end game weapon, but one you can whip out when the mood strikes you.
+dimwishlist:item=2199171672&perks=1840239774,3230963543,4267945040,4082225868#notes:Rostopher: PvE pick. Full Auto Trigger System is the best perk for this weapon in Column 3 for PvE, and Swashbuckler pairs well with the weapon's close-range nature. Flared and Fluted make up for the weapons clunky handling and reload. Not an endgame weapon, but one you can certainly whip out when sidearm challenges or bounties pop up.
+
+// Long Shadow
+dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999#notes:Rostopher: Rostopher's personal PvP pick. Whilst it may seem odd that I've selected the scope with the highest zoom, the Y4 changes to how sniper zoom affected aim assist means that on controller, high zoom is very much your friend, and even on M&K, if you can get to grips with the lowered field of view, this thing will land shots that you absolutely do not expect to. [Recommended MW: Range or Handling]
+dimwishlist:item=3745990145&perks=893526893,2420895100,247725512,3400784728#notes:Rostopher: PvE pick. Whilst better kinetic snipers are available, they are often harder to acquire, and this is an extremely solid pick for moments where you need one. Rapid Hit and Triple Tap synergise very well, allowing you to fire 7 rounds if you hit every crit before reloading lightning fast, even with defecit inflicted by Extended. ATC REX has the shortest zoom, giving you the best chance to track your target if they're moving. [Recommended MW: Reload or Handling]
+
 // Multimach CCX
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Combined with accurised rounds, this can touch up to 20 metres before damage drop-off. Killing Wind pushes that out even further when you secure a kill, and Kill Clip, when active, drops your TTK to a surreal 0.47 seconds, needing only 8 crits. An absolute gem of a PvP SMG, hold on to this one; it'll even do work in PvE if you let it. [Recommended MW: Range, Stability or Handling]
 dimwishlist:item=3717177717&perks=663495154,106909392,2450788523,4049631843#notes:Rostopher: PvE pick. New Recluse? You may well have it in your hands here. Just tag three opponents, finish one of them, and let the spree commence.  [Recommended MW: Range, Stability or Handling]
@@ -536,6 +551,16 @@ dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:Rostoph
 
 // Interference VI
 dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! This'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then stow it to reload, rinse and repeat. [Recommended MW: Velocity or Handling]
+
+// Jian 7 Rifle
+dimwishlist:item=1162247618&perks=1968497646,1683379515,3425386926#notes:Rostopher: PvE pick. This weapon is unique in that it can roll Disruption Break in Column 3, where normally it lands in column 4, meaning it can be paired with Rampage to serve a dual role of shield cracking and red-bar slaying. Armor-Piercing makes it hit shields harder, and the Pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+
+// Last Perdition
+dimwishlist:item=188882152&perks=106909392,1168162263,1015611457#notes:Rostopher: PvE pick. Outlaw/Kill Clip is a classic PvE combo, and it works particularly well on this weapon. Tac Mag will keep your weapon stable and your reload snappy, then just pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+dimwishlist:item=188882152&perks=106909392,1168162263,3425386926#notes:Rostopher: PvE pick. Outlaw/Rampage is a classic PvE combo, and it works particularly well on this weapon. Tac Mag will keep you stable and your reload snappy. Just pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+
+// Loud Lullaby
+dimwishlist:item=3924212056&perks=4090651448,3142289711,2946784966,1015611457#notes:Rostopher: PvP slayer pick. If you're good at securing kills without the help of consistency perks, this weapon will fully 'kick in' when you reload after a kill. Enhanced accuracy and the ability to two-tap any guardian is not to be sniffed at. [Recommended MW: Range or Handling]
 
 // Multimach CCX
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Combined with accurised rounds, this can touch up to 20 metres before damage drop-off. Killing Wind pushes that out even further when you secure a kill. Your final perk isn't the absolute best, but this roll will still do work in PvP - but be on the look out for a similar one with Kill Clip. [Recommended MW: Range, Stability or Handling]
@@ -786,6 +811,18 @@ dimwishlist:item=3460122497&perks=201365942,4104185692#notes:Rostopher: Uniquely
 // Interference VI
 dimwishlist:item=2257180473&perks=33019040892888557110#notes:Rostopher: PvE DPS pick. Uniquely among GLs, this weapon can roll Full Court, which ramps up your damage the further the round travels. So congrats on getting one! There's no bad perk in column 3 on this weapon, so use what you have, and this'll be excellent for various bosses, especially if you've not yet snagged Anarchy. Just empty the drum, then reload and fire again until you run out of ammo, or the thing is dead. [Recommended MW: Velocity or Handling]
 
+// Jian 7 Rifle
+dimwishlist:item=1162247618&perks=1683379515,3425386926#notes:Rostopher: PvE pick. This weapon is unique in that it can roll Disruption Break in Column 3, where normally it lands in column 4, meaning it can be paired with Rampage to serve a dual role of shield cracking and red-bar slaying. Pick the magazine perks that enhance stability, handling and mag size, in that order, then grab the scope that you hate the least. [Recommended MW: Stability or Handling]
+dimwishlist:item=1162247618&perks=2387244414,3425386926#notes:Rostopher: PvP pick. Pulse Rifles will almost always be an at least half-decent pick in PvP, being both range-y and easy to use. This one in particular can two-burst someone with just one stack of Rampage, and Zen Moment keeps your bursts on target, assuming you land the first shot. Pick magazine perks that enhance your stability or range, and pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+
+// Last Perdition
+dimwishlist:item=188882152&perks=1168162263,1015611457#notes:Rostopher: PvE pick. Outlaw/Kill Clip is a classic PvE combo, and it works particularly well on this weapon. Pick the magazine perk that enhances your stability best, and then just pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+dimwishlist:item=188882152&perks=1168162263,3425386926#notes:Rostopher: PvE pick. Outlaw/Rampage is a classic PvE combo, and it works particularly well on this weapon. Pick the magazine perk that enhances your stability best, and then just pick the scope that you hate the least. [Recommended MW: Stability or Handling]
+dimwishlist:item=188882152&perks=2846385770,1015611457#notes:Rostopher: PvP pick. Range finder more or less maxes your range out at around 50 metres, and with Kill Clip active, you only need to land 2 bursts to secure a kill. Pick barrel perks that enhance your range and stability, and pick the scope that has the highest zoom that you can stomach. [Recommended MW: Stability or Handling]
+
+// Lonesome
+dimwishlist:item=2199171672&perks=4267945040,4082225868#notes:Rostopher: PvE pick. Full Auto Trigger System is the best perk for this weapon in Column 3 for PvE, and Swashbuckler pairs well with the weapon's close-range nature. Not an endgame weapon, but one you can certainly whip out when sidearm challenges or bounties pop up. Pick barrel and mag perks that offset the weapon's poor handling and reload speed.
+
 // Multimach CCX
 dimwishlist:item=3717177717&perks=6634951542450788523#notes:Rostopher: PvP pick. One of only a handful of SMGs that can still roll with scopes, and you've snagged the best one. The Model 8 RED bumps your zoom up from 13 to 17, and whilst that doesn't sound like a lot, this scope alone pushes your effective range out by 8 whole metres. Killing Wind pushes that out even further when you secure a kill, although your final perk does leave a little to be desired. Still, this'll do work. Pick whichever mag perk pushes out your range the most, and failing that, go for stability or reload speed. [Recommended MW: Range, Stability or Handling]
 dimwishlist:item=3717177717&perks=2450788523,4049631843#notes:Rostopher: PvE pick. New Recluse? You may well have it in your hands here. Just tag three opponents, finish one of them, and let the spree commence. Pick the scope that has the highest zoom (preferably the Model 8 RED), and try to enhance your stability and magazine size with your magazine perk. [Recommended MW: Range, Stability or Handling]
@@ -915,6 +952,9 @@ dimwishlist:item=607191995&perks=1546637391#notes:Rostopher: Generalist pick. Wh
 // Ignition Code
 dimwishlist:item=304659313&perks=3161816588#notes:Rostopher: Ignition Code is unique among breech GLs in its ability to roll Slideshot, allowing you to slide to reload instead of going through the lengthy reload animation. Whilst the other perks here aren't wildly brilliant, this will be fun to hang on to untill you find a better roll.
 
+// Lonesome
+dimwishlist:item=2199171672&perks=4267945040#notes:Rostopher: PvE pick. Full Auto Trigger System is the best perk for this weapon in Column 3 for PvE, and there's very few bad choices in Column 4. Whilst better specific rolls are available, this will work if you care to make use of it.
+
 // Seventh Seraph Officer Revolver
 dimwishlist:item=3037520408&perks=1954620775#notes:Rostopher: Whilst 180s aren't precisely optimal PvE weapons, this has the wonderful ability to spawn beautiful, shiny red nukes into the world, and that carries it a VERY long way. That and Timed Payload combines very well with anti-champion mods, making it an outstanding weapon for high-end PvE content, even with the less-than-optimal roll you have here. Make do with this until you secure a better one.
 dimwishlist:item=3037520408&perks=1546637391#notes:Rostopher: Whilst 180s aren't precisely optimal PvE weapons, this has the wonderful ability to spawn beautiful, shiny red nukes into the world, and that carries it a VERY long way, particularly in higher end content where the bonus utility and damage from Warmind Cells will prove invaluable. Vorpal Weapon plays into that, giving you bonus damage against yellow-bar combatants, so it's good even with the less-than-optimal roll you have here. Pick magazine and barrel perks that enhance your mag size, stability and handling.
@@ -1032,4 +1072,25 @@ dimwishlist:item=-3829285960&perks=#notes:Rostopher: Horror Story has almost not
 
 // Orewing's Maul
 dimwishlist:item=-2108920981&perks=#notes:Rostopher: A poor man's Truthteller. Whilst there are some entirely servicable rolls of this weapon, this is not one of them, and it's not only easier, but better to hunt down a good Truthteller, which has a wildly superior perk pool.
+
+// Loud Lullaby
+dimwishlist:item=3924212056&perks=4090651448,1069093924104185692#notes:Rostopher: PvE pick. Column 3 is a very mixed bag for PvE on this weapon, but since Frenzy is both a damage and reload perk, you can more or less settle for anything there. [Recommended MW: Range or Handling]
+dimwishlist:item=3924212056&perks=1482024992,3142289711,2866798147,699525795#notes:Rostopher: PvP duelling weapon. If you're after a consistent 120 hand cannon for 3s, look no further. This thing has more or less maximised range, a perfect recoil direction, and will keep you on target even as you're taking fire. [Recommended MW: Range or Handling]
+
+// Love and Death
+dimwishlist:item=3690523502&perks=3525010810,3301904089,3300816228,3523296417#notes:Rostopher: PvE pick. Whilst they butchered this weapon when they brought it back, it is not without decent rolls, and this is one of them. The ability to reload your weapon by throwing your grenade means, in principle, you can fire two entire magazines into a target without needing to reload, then you can stow it and wait for auto-loading holster to do its magic. [Recommended MW: Handling]
+
+// Long Shadow
+dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:Rostopher: PvE pick. Whilst better kinetic snipers are available, they are often harder to acquire, and this is an extremely solid pick for moments where you need one. Rapid Hit and Triple Tap synergise very well, allowing you to fire 7 rounds if you hit every crit before reloading lightning fast, even with defecit inflicted by Extended. Pick the scope that you hate the least. [Recommended MW: Reload or Handling]
+dimwishlist:item=3745990145&perks=957782887,588594999#notes:Rostopher: PvP pick. Snapshot sights will let you acquire your target quickly, and moving target gives you a nice bump to aim assist that'll help you land your shots. Pair with magazine perks that enhance your range, and pick the scope with the zoom level you're most comfortable with. [Recommended MW: Range or Handling]
+
+// Loud Lullaby
+dimwishlist:item=3924212056&perks=2866798147,699525795#notes:Rostopher: PvP duelling weapon. If you're after a consistent 120 hand cannon for 3s, look no further. This thing has a perfect recoil direction, and will keep you on target even as you're taking fire. Pick magazine and barrel perks that enhance your range and handling. [Recommended MW: Range or Handling]
+dimwishlist:item=3924212056&perks=2946784966,1015611457#notes:Rostopher: PvP slayer pick. If you're good at securing kills without the help of consistency perks, this weapon will fully 'kick in' when you reload after a kill. Enhanced accuracy and the ability to two-tap any guardian is not to be sniffed at. Choose barrel and mag perks that enhance your range. [Recommended MW: Range or Handling]
+
+// Love and Death
+dimwishlist:item=3690523502&perks=3301904089,3300816228#notes:Rostopher: PvE pick. Whilst they butchered this weapon when they brought it back, it is not without decent rolls. Auto-loading combined with Spike Grenades is always a solid DPS pick, even if your barrel and column 4 perks are a bit meh. [Recommended MW: Handling]
+
+// Loud Lullaby
+dimwishlist:item=3924212056&perks=4104185692#notes:Rostopher: PvE pick. Column 3 is a very mixed bag for PvE on this weapon, but since Frenzy is both a damage and reload perk, you can more or less settle for anything there. Pick magazine and barrel perks that speed up your reload, or enhance your mag size or stability. [Recommended MW: Range or Handling]
 
