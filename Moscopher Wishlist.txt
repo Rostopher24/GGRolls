@@ -1246,6 +1246,9 @@ dimwishlist:item=2199171672&perks=4267945040#notes:Rostopher: PvE pick. Full Aut
 // Loud Lullaby
 dimwishlist:item=3924212056&perks=4104185692#notes:Rostopher: PvE pick. Column 3 is a very mixed bag for PvE on this weapon, but since Frenzy is both a damage and reload perk, you can more or less settle for anything there. Pick magazine and barrel perks that speed up your reload, or enhance your mag size or stability. [Recommended MW: Range or Handling]
 
+// Multimach CCX
+dimwishlist:item=3717177717&perks=#notes:Rostopher: test [Recommended MW: Velocity or Handling]
+
 // Nation of Beasts
 dimwishlist:item=654370424&perks=3038247973#notes:Rostopher: There are very few bad rolls on this weapon, and this one is one of the better ones for higher tier PvE content. Explosive payload ramps up your damage in PvE by about 11%, and also has the added benefit of counting as two hits, which combines superbly with hand cannon champion mods. Whilst slightly better specific rolls are available, Explosive Payload carries it a fair way all on its own, so it's worth keeping until you find a better one. [Recommended MW: Stability or Reload]
 
@@ -1391,3 +1394,4 @@ dimwishlist:item=-2434225986&perks=#notes:Rostopher: Shattered Cipher is a reall
 
 // Shining Sphere
 dimwishlist:item=-136525518&perks=#notes:Rostopher: Shining Sphere's perk pool pales in comparion to those of its arc rocket counterparts Sleepless and Subzero Salvo. There is exactly one remarkable roll of this weapon (Auto-Loading/Tracking), and this is not it, so you can safely bin this, and hope you get the one from Saladin next time he pops by.
+
