@@ -1391,4 +1391,3 @@ dimwishlist:item=-2434225986&perks=#notes:Rostopher: Shattered Cipher is a reall
 
 // Shining Sphere
 dimwishlist:item=-136525518&perks=#notes:Rostopher: Shining Sphere's perk pool pales in comparion to those of its arc rocket counterparts Sleepless and Subzero Salvo. There is exactly one remarkable roll of this weapon (Auto-Loading/Tracking), and this is not it, so you can safely bin this, and hope you get the one from Saladin next time he pops by.
-
