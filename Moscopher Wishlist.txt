@@ -1768,4 +1768,3 @@ dimwishlist:item=-1645386487&perks=#notes:Rostopher: Whilst this weapon has a wo
 
 // Widow's Bite
 dimwishlist:item=-1271343896&perks=#notes:Rostopher: Given that the Ikelos Sniper exists, and is statistically superior to this weapon in almost every way AND can spawn warmind cells, this weapon fulfils no purpose in your collection. There are a couple of interesting rolls on it, but this is not one of them, so you can safely shard it. If you like the aesthetic or the handling, dive back into the Prophecy dungeon to see if you can get a better one.
-
