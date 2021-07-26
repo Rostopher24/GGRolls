@@ -1478,3 +1478,114 @@ dimwishlist:item=11&perks=3300816228,2360754333#notes:Rostopher: Shotguns with A
 // Sword
 dimwishlist:item=54&perks=1749209109,3913600130#notes:Rostopher: Any sword with Relentless and Whirlwind is worth keeping. Landing light attacks ramps up your damage, and returns ammo, what's not to love? [Recommended MW: Impact]
 
+// Age-Old Bond
+dimwishlist:item=-601592879&perks=#notes:Rostopher: This is sadly just not a great weapon without very specific rolls, and your roll is not one of them. If it's your only one, might as well keep it - otherwise, it's time to run more Last Wishes and do Riven legit, yes?
+
+// Any
+dimwishlist:item=-69420&perks=3643424744,1015611457#notes:Rostopher: Overflow and Kill Clip synergise extremely poorly, as you cannot reload if the magazine is overflowed, preventing you from proccing it. Bin this, and be on the look out for a better one.
+
+// Apostate
+dimwishlist:item=-2164448701&perks=#notes:Rostopher: The Apostate low-key sucks booty, with mediocre base stats, a bizarre recoil direction and a deeply uninteresting perk pool. I have never once said to myself 'boy I wish I had a rapid-fire arc sniper that looks like something out of Mad Max and only has perks that are useful if I secure kills with it'. There are a couple of decent rolls, but this is not one of them, and honestly, you're better off running almost anything else in its place.
+
+// Archon's Thunder
+dimwishlist:item=-1967303408&perks=#notes:Rostopher: A pretty big disappointment, this one. 360 machine guns really aren't good enough to justify using over 450 or even 900s (which are also bad FYI). There are a couple of specialised rolls that elevate it from the trash tier, but this is not one of them, so go hand in more Iron Banner tokies.
+
+// Bottom Dollar
+dimwishlist:item=-1046651176&perks=1820235745,#notes:Rostopher: Subsistence feels extremely poor on 120s without Extended Mag. Unless this is your only one, you'll probably want to bin this.
+
+// Chroma Rush
+dimwishlist:item=-1119734784&perks=1820235745,#notes:Rostopher: Subsistence only really works on this weapon when paired with Rampage - otherwise, it just takes so many bullets to get it going that you're not really making the most of the perk.
+
+// Coriolis Force
+dimwishlist:item=-3512349612&perks=#notes:Rostopher: Coriolis Force is a tough weapon to love. It recoils naturally almost horizontally to the left (in contrast to most fusions, which recoil slightly to the right and vertically), and is functionally useless in PvP. There are some niche rolls available on it that fit into some very specific builds as a void fusion rifle, but this is not one of those rolls, so only keep if you're doing so for completionist purposes.
+
+// Corsair's Wrath
+dimwishlist:item=-2714022207&perks=#notes:Rostopher: Whilst they did receive a buff, Linear Fusions are nowhere near as strong for DPS as rockets, grenade launchers or swords, and Corsair's Wrath has very little going for it to make it shine in its perk pool in PvE. There are some rolls out there that will do work in both PvE and PvP, but this is not one of them. Get it in the bin.
+
+// Crimil's Dagger
+dimwishlist:item=-4292849692&perks=#notes:Rostopher: Crimil's Dagger does feature some excellent rolls - however, this is not one of them, and the weapon is not nearly strong enough to use without a good roll, given it's deeply inferior stats to nearly every other 120 hand cannon.
+
+// Death Adder
+dimwishlist:item=-2742490609&perks=#notes:Rostopher: Death Adder was supposed to be the chosen one! It was supposed to replace The Recluse, not be left in Darkness! But in all seriousness, god this weapon is just disappointing as hell, with a poor selection of perks. It's only redeeming quality is it's one of only two solar SMGs in the game, so if you need to keep one on that basis, do so. There are also some rolls out there that do work, but this is not one of them, get it in the bin.
+
+// Dream Breaker
+dimwishlist:item=-2931957300&perks=#notes:Rostopher: Dream Breaker is inferior in every way to Trinary System. It's only redeeming qualities are that it can roll Kickstart and Frenzy, neither of which you have here, so you can safely bin this.
+
+// Eternity's Edge
+dimwishlist:item=-2782325301&perks=#notes:Rostopher: Whilst it was lovely that they reintroduced the class-specific swords, Eternity's Edge is certainly the most disappointing. With a bewilderingly small perk pool that lacks particular staples that ramp up swords' damage, the only benefit it really has is that it is a Solar Vortex Frame, and it has the unique perk of Infinite Guard, which would honestly be more helpful for a Titan than a warlock. Even then, you'll probably want to run Sola's Scar, Negative Space or Abide the Return for their more diverse and useful perk pools. There are exactly three good roll of this weapon, and this is not one of them, so bin this until you get it.
+
+// Exile's Curse
+dimwishlist:item=-679281855&perks=1264398905,#notes:Rostopher: So, you got Celerity. Guess it's time to get 3 legendary shard.
+
+// Far Future
+dimwishlist:item=-893527433&perks=#notes:Rostopher: This weapon has been largely superseded by the wildly superior Uzume RR4, which has a better perk package and can also roll as an Adept weapon. The only thing this really has going for it is its excellent aesthetic and its slightly lower zoom. There are some good rolls available on this weapon, but this is not one of them, so it can be safely punted into the bin. [Recommended MW: Stability]
+
+// Fatebringer
+dimwishlist:item=-2171478765&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
+
+// Fatebringer (Timelost)
+dimwishlist:item=-1216319404&perks=3038247973,1015611457,#notes:Rostopher: On paper, Explosive/Kill Clip should slap in both PvE and PvP. In practice, due to peculiarities with the way Explosive Payload functions, Kill Clip does not buff the damage of the explosive part of the round. As such, this combination is not as good as you think it is, and is probably best sharded.
+
+// Finite Impactor
+dimwishlist:item=-3813153080&perks=#notes:Rostopher: For whatever reason, Bungie have decreed that all arc 140 hand cannons must be kinda terrible, with the only notable exception to this rule being Nation of Beasts from Last Wish. This weapon is, indeed, not an exception, and whilst there are a couple of interesting rolls available, this is not one of them, so you can safely punt it into the trash.
+
+// Hailing Confusion
+dimwishlist:item=-2870169846&perks=#notes:Rostopher: Hailing Confusion is, overall, a disappointing weapon, with a clunky scope, a poor recoil score and an underwhelming perk selection. There are a couple of specific rolls that are interesting available, but this is not one of them, so you can safely bin this.
+
+// Heretic
+dimwishlist:item=-3067821200&perks=#notes:Rostopher: Heretic is a weird one. It can roll Lasting Impression, and is unique among arc rockets in this regard, but is otherwise unimpressive compared to Sub-zero Salve, Shining Sphere and Sleepless, which feature more interesting perk packages. Sadly, you do not have Lasting Impression, so if you can be bothered to farm out another one, it's worth a shot. But you can safely bin this one.
+
+// Honor's Edge
+dimwishlist:item=-2857348871&perks=#notes:Rostopher: Honor's Edge is a deeply uninteresting weapon, with a disappointing perk selection that doesn't really give it utility over other arc swords like Temptations Hook and Bequest. Completionists may wish to keep a copy, but otherwise you can safely shard this, you're not missing out. Plus, y'know, fuck New Monarchy, fucking Space Fascists the lot of 'em.
+
+// Hoosegow
+dimwishlist:item=-3669616453&perks=#notes:Rostopher: Hoosegow is deeply inferior, in both available perks, utility and base stats to Sleepless, Shining Sphere and Sub-zero Salvo. There are a couple of very specific rolls that'll do work, but this is not one of them, so you can safely shard it.
+
+// Horror Story
+dimwishlist:item=-3829285960&perks=#notes:Rostopher: Horror Story has almost nothing going for it when randomly rolled, with a poor selection of perks, and base stats that are easily outclassed by the Braytech Werewolf, which came from the same event. If you want to use this weapon, pull the curated roll from your collection.
+
+// Nature of the Beast
+dimwishlist:item=-1835747805&perks=#notes:Rostopher: Whilst this weapon is comparatively easy to acquire, it's almost laughably inferior to its raid-acquired counterpart, Posterity. There are a couple of half-decent rolls for it, but this is not one of them, so you can safely discard it.
+
+// Orewing's Maul
+dimwishlist:item=-2108920981&perks=#notes:Rostopher: A poor man's Truthteller. Whilst there are some entirely serviceable rolls of this weapon, this is not one of them, and it's not only easier, but better to hunt down a good Truthteller, which has a wildly superior perk pool.
+
+// PLUG ONE.1
+dimwishlist:item=-1289000550&perks=,1600092898#notes:Rostopher: Backup Plan is an actively bad perk on this weapon, and unless this is your only one, you can get rid of it and try to acquire a better one.
+
+// PLUG ONE.1 (Adept)
+dimwishlist:item=-534775659&perks=,1600092898#notes:Rostopher: Backup Plan is an actively bad perk on this weapon, and unless this is your only one, you can get rid of it and try to acquire a better one.
+
+// Shattered Cipher
+dimwishlist:item=-2434225986&perks=#notes:Rostopher: Shattered Cipher is a really tough weapon to recommend, despite its incredible aesthetic. There is exactly one usable roll that you can extract from its chaotic perk pool, and this is not it. It can be fun for goofing around in low difficulty activities, but as the difficulty ramps up, it'll becomes almost impossible to justify using over almost anything else. Look out for Auto-Loading and Rampage if you're interested in having a good roll, or just keep this one if you don't care, but otherwise it can go in the bin.
+
+// Shining Sphere
+dimwishlist:item=-136525518&perks=#notes:Rostopher: Shining Sphere's perk pool pales in comparison to those of its arc rocket counterparts Sleepless and Sub-zero Salvo. There is exactly one remarkable roll of this weapon (Auto-Loading/Tracking), and this is not it, so you can safely bin this, and hope you get the one from Saladin next time he pops by.
+
+// Talons of the Eagle
+dimwishlist:item=-1982711279&perks=#notes:Rostopher: Horrible weapon with a horrible sight of a horrible archetype. Whilst there are a couple of interesting rolls of this weapon despite this, you can probably safely get rid of this.
+
+// Techeun Force
+dimwishlist:item=-4094657108&perks=#notes:Rostopher: Whilst it’s a welcome sight to see this weapon return from Destiny 1, it's been lumped into an archetype that doesn't fulfil any particular role, in either PvE or PvP. Combine that with its restricted, odd perk pool, and you've got on your hands a weapon that doesn't really do anything particularly interesting or useful. Hang onto it if you like keeping a copy of everything, otherwise just shard it, it's taking up space.
+
+// The Scholar
+dimwishlist:item=-2478792241&perks=#notes:Rostopher: The Scholar's return is one of the most underwhelming reintroductions of a Destiny 1 weapon into D2. A ludicrously limited perk selection, combined with a far-from-meta archetype in both PvE and PvP means this weapon serves almost no function. Congrats on getting one, I guess.
+
+// The Scholar (Adept)
+dimwishlist:item=-2386979999&perks=#notes:Rostopher: The Scholar's return is one of the most underwhelming reintroductions of a Destiny 1 weapon into D2. A ludicrously limited perk selection, combined with a far-from-meta archetype in both PvE and PvP means this weapon serves almost no function. Congrats on getting one, I guess.
+
+// Thermal Erosion
+dimwishlist:item=-1766088024&perks=#notes:Rostopher: 900 RPM LMGs are not particularly brilliant in either PvE or PvP, and Thermal Erosion lacks the perk package to make it truly viable. There are a couple of good rolls on this weapon, but this is not one of them, so you can safely shard it.
+
+// Timelines' Vertex
+dimwishlist:item=-3055192515&perks=#notes:Rostopher: Another Adaptive solar fusion rifle that is wildly inferior in both base stats and perk pool to Trinary System, the only thing that this weapon has going for it is it's one of only a handful of non-sunset fusions that can still roll scopes, and you don't have to play gambit to get it. There are some good rolls available of this weapon, but this is not one of them, so you can safely shard it.
+
+// Toil and Trouble
+dimwishlist:item=-2957367743&perks=#notes:Rostopher: Toil and Trouble has no useful PvE rolls - if you're dying to have a kinetic shotgun for PvE, farm out a Blasphemer or One Small Step from the Moon, or a Heritage from the Deep Stone Crypt. There is exactly one good roll of this weapon, it's only useful in PvP, and this is not it, so shard this.
+
+// Tranquility
+dimwishlist:item=-1645386487&perks=#notes:Rostopher: Whilst this weapon has a wonderful aeshetic and a lovely, clean scope, its reuissue saw it return with a deeply underwhelming perk package for both PvE and PvP, with significantly better options for both being much more readily available.
+
+// Widow's Bite
+dimwishlist:item=-1271343896&perks=#notes:Rostopher: Given that the Ikelos Sniper exists, and is statistically superior to this weapon in almost every way AND can spawn warmind cells, this weapon fulfils no purpose in your collection. There are a couple of interesting rolls on it, but this is not one of them, so you can safely shard it. If you like the aesthetic or the handling, dive back into the Prophecy dungeon to see if you can get a better one.
+
