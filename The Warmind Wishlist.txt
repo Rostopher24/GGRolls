@@ -2629,8 +2629,8 @@ dimwishlist:item=2443900757&perks=1820235745#notes:The Warmind: PvE pick. Subsis
 dimwishlist:item=1641430382&perks=4152709778#notes:Rostopher: PvP pick. Do YOU miss 150 Hand Cannons? If so, this weapon will bring back those memories for you. Featuring the ludicrous, 'no way I hit that headshot' aim assist that 150s were known for thanks to the huge bump from Iron Gaze, and the beauty of it is that even with the huge range drop, you're still effective up to SEVENTY-FIVE METRES. It's wild, you will enjoy.
 
 // The Hothead (Adept)
+dimwishlist:item=1866778462&perks=2284787283#notes:The Warmind: PvE pick. Given that you've got guaranteed tracking on this weapon, getting Clown Cartridge in addition to this is pretty sweet. You could've gotten a better second perk in Column 3, but eh, this'll still do good work even given that you can have two tracking rockets in the tube at once. [Recommended MW: Velocity or Reload]
 dimwishlist:item=1866778462&perks=3523296417#notes:The Warmind: PvE pick. Given that the Adept variant of this weapon rolls with Tracking Module as well as another perk, the fact that you got Demolitionist gives this weapon some really nice multi-purpose utility in PvE. Need to hit something far away? Tracking. Need to do burst DPS to a champ or boss? Demolitionist. Just remember to have your grenade ready to throw so you can quickly fire two rockets. [Recommended MW: Reload or Handling]
-dimwishlist:item=1866778462&perks=2869569095#notes:The Warmind: PvE pick. Given that the Adept variant of this weapon rolls with Tracking Module as well as another perk, the fact that you got Field Prep gives this weapon some really nice multi-purpose utility in PvE. Need to hit something far away? Tracking. Doing DPS to a stationary(-ish) boss? Field Prep. Just remember to pop a crouch before you go town to take advantage of that speedy reload. [Recommended MW: Reload or Handling]
 
 // The Last Breath
 dimwishlist:item=507038823&perks=3523296417#notes:The Warmind: PvE pick. Demolitionist in column 3 is not too common, and it really comes into its own here, serving as both a reloader perk as well as a build-crafting pick. Have a look at your second primary trait and try to make use of it accordingly. For your barrel and magazine perks, look to enhance your stability or magazine size as best you can. [Recommended MW: Stability or Range]
@@ -2726,4 +2726,7 @@ dimwishlist:item=54&perks=1749209109,3913600130#notes:The Warmind: Any sword wit
 
 // Any
 dimwishlist:item=-69420&perks=3824105627#notes:The Warmind: Firefly alone on any weapon is really good, given it has both a damage effect and a reload speed buff on precision kills, and also means that the weapon can spawn warmind cells if you can secure kills with the Firefly explosion, thanks to the Wrath of Rasputin mod. Whilst better specific rolls will be available, this one is worth holding on to until you find them.
+
+// The Hothead (Adept)
+dimwishlist:item=1866778462&perks=2869569095#notes:The Warmind: PvE pick. Given that the Adept variant of this weapon rolls with Tracking Module as well as another perk, the fact that you got Field Prep gives this weapon some really nice multi-purpose utility in PvE. Need to hit something far away? Tracking. Doing DPS to a stationary(-ish) boss? Field Prep. Just remember to pop a crouch before you go town to take advantage of that speedy reload. [Recommended MW: Reload or Handling]
 
